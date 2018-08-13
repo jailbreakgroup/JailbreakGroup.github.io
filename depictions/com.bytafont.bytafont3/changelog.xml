@@ -1,0 +1,24 @@
+<changelog>
+    <changes>
+		<version>3.5</version>
+		<change>إضافة دعم اصدار 11</change>
+	</changes>
+	<changes>
+		<version>3.2</version>
+		<change>دعم iOS 10.2</change>
+	</changes>
+	<changes>
+		<version>3.1.51</version>
+		<change>اصلاحات عامه</change>
+	</changes>
+	<changes>
+		<version>3.1.4</version>
+		<change>صثبنت مسي بمسنيتب سشميبت سشمينبت سشمينتب سشميبسيب</change>
+		<change>إضافة إيماءات جديدة</change>
+	</changes>
+    <changes>
+		<version>3.1</version>
+		<change>صمنت سيب منسيتب سيبت سخهبت ينتبسم شينت بشمسكيبشسيب</change>
+	</changes>
+</changelog>
+

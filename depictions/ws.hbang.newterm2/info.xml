@@ -1,0 +1,30 @@
+<package>
+	<id>ws.hbang.newterm2</id>
+	<name>NewTerm 2</name>
+	<version>2.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>11.3.1</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>iOS>= 7, libswift4, Cephei, Bourne-Again SHell, Core Utilities, New Curses, system-cmds, Locale Profiles in UTF-8</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>موجة اوامر لنظام ال iOS - الترمنال
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image>1.png</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>إضافة دعم لشاشة الايفون اكس</change>
+		<change>إضافة الثيم الليلي</change>
+		<change>تحسين الاداء</change>
+	</changelog>
+</package>

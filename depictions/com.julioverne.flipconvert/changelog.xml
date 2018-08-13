@@ -1,0 +1,21 @@
+<changelog>
+	<changes>
+		<version>0.0~beta5</version>
+		<change>تعديل الخط في البار العلوي</change>
+		<change>اصلاح بعض الاخطاء الصغيره</change>
+	</changes>
+	<changes>
+		<version>0.0~beta4</version>
+		<change>تغيير شكل الايقونات لتتناسب مع النظام الجديد</change>
+	</changes>
+	<changes>
+		<version>0.0~beta3</version>
+		<change>الضغط المطول على الايقونات للتحكم في Flipswitch</change>
+		<change>اصلاحات عامه</change>
+	</changes>
+    <changes>
+		<version>0.0~beta1</version>
+		<change>الإصدار الأولي للأداة</change>
+	</changes>
+</changelog>
+

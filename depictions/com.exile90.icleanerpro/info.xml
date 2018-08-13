@@ -1,0 +1,34 @@
+<package>
+	<id>com.exile90.icleanerpro</id>
+	<name>اداة iCleaner Pro</name>
+	<version>7.7.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>4.0</miniOS>
+			<maxiOS>11.3.1</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>APT, Find Utilities, shell-cmds</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>تنظيف وتحرير جهازك من مخلفات التصفح والملفات الزائدة
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image>1.png</image>
+		</screenshot>
+        <screenshot>
+			<description></description>			
+			<image>2.png</image>
+		</screenshot>					
+	</screenshots>
+	<changelog>
+		<change>إضافة دعم لشاشة الايفون اكس</change>
+		<change>إضافة الثيم الليلي</change>
+		<change>تحسين الاداء</change>
+	</changelog>
+</package>

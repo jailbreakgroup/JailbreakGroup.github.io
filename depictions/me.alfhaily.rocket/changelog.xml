@@ -1,0 +1,22 @@
+<changelog>
+	<changes>
+		<version>3.0.16</version>
+		<change>اصلاح خطاء عدم القدرة على الدخول الى اعدادات الأداة</change>
+	</changes>
+	<changes>
+		<version>3.0.15</version>
+		<change>اصلاح الستوري في وضع الشبكه على انستقرام اصدار 54.0</change>
+		<change>اضافة 3D toutch لعرض البوست </change>
+		<change>اصلاخ خلل يحدث عند محاولة شراء Rocket Pro</change>
+	</changes>
+	<changes>
+		<version>3.0.14</version>
+		<change>اصلاح الخروج المفاجىء لوضع الشبكه على انستقرام 52.0</change>
+
+	</changes>
+    <changes>
+		<version>3.0.13</version>
+		<change>اصلاحات وتحسينات عامه</change>
+	</changes>
+</changelog>
+

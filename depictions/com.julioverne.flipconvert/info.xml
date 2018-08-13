@@ -1,0 +1,29 @@
+<package>
+	<id>com.julioverne.flipconvert	</id>
+	<name>اداة FlipConvert</name>
+	<version>0.0~beta5</version>
+	<compatibility>
+		<firmware>11.0/miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>iOS>= 11.0, MobileSubstrate, PreferenceLoader, CCSupport, FlipSwitch</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>تغيير ترتيب العناصر في مركز التحكم ونقل ماتريد حيث تريد واضافة اختصارات ليست موجود بالنظام الرسمي من ابل
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>صوره</description>			
+			<image>1.png</image>
+		</screenshot>		
+	
+	</screenshots>
+	<changelog>
+		<change>تعديل الخط في البار العلوي</change>
+		<change>اصلاح بعض الاخطاء الصغيره</change>
+	</changelog>
+</package>

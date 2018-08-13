@@ -1,0 +1,29 @@
+<package>
+	<id>com.cokepokes.appstoreplusplus</id>
+	<name>اداة AppStore++</name>
+	<version>0.6-2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>firmware (>= 11.0), mobilesubstrate</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>امكانية الرجوع لاصدارات اقدم - مفيده عند تحديث الشركة لبرنامج والتخلي عند بعض المميزات التي كانت تفيدك بالسابق - بهذه الاداه تستطيع الرجوع لاصدار التطبيق الذي تريده
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>صوره</description>			
+			<image>1.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>إصلاح بعض الاخطاء</change>
+		<change>اصلاح خطا كان يتسبب في فتح التطبيق اثناء عملية الداون قريد</change>
+	</changelog>
+</package>

@@ -1,0 +1,21 @@
+<changelog>
+	<changes>
+		<version>0.5.2</version>
+		<change>إصلاح بعض الاخطاء</change>
+		<change>حل مشكلة كراش الأعدادات</change>
+	</changes>
+	<changes>
+		<version>0.5.1</version>
+		<change>دعم كامل للإصدار 11 و الايفون اكس</change>
+	</changes>
+	<changes>
+		<version>0.5</version>
+		<change>إعادة كتابة الاداة</change>
+		<change>إضافة إيماءات جديدة</change>
+	</changes>
+    <changes>
+		<version>0.1-297+debug</version>
+		<change>الإصدار الأولي للأداة</change>
+	</changes>
+</changelog>
+

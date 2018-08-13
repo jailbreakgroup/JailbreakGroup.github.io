@@ -1,0 +1,19 @@
+<package>
+	<id>com.creaturecodiing.ebullience</id>
+	<name>أداة ebullience</name>
+	<version>0.9.9.9</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, PreferenceLoader</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>أداة مساعدة
+		</description>
+	</descriptionlist>
+</package>

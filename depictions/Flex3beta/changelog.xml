@@ -1,0 +1,22 @@
+<changelog>
+	<changes>
+		<version>version 3~Beta48</version>
+		<change>اصلاح خطا كان يتسبب في انهيار التطبيق بعد تطبيق الباتش  عليه</change>
+		<change>هذه هي النسخه ما قبل النهائيه Felx 4</change>
+	</changes>
+	<changes>
+		<version>version 3~Beta47</version>
+		<change>اصلاح بعض المشاكل</change>
+		<change>الان تستطيع حفظ الاضافة او التعديل على ملف في الكاش الخاص بالتطبيق</change>
+		<change>اصلاح مشكلة دائما كانت تتسبب في تعطل تطبيق الباش على البرامج</change>
+	</changes>
+	<changes>
+		<version>version 3~Beta46</version>
+		<change>اصلاح مشكلة كانت تسبب في انهيار التطبيق عند تشغيله ، شكرا لـ @domoTM للابلاغ</change>
+	</changes>
+    <changes>
+		<version>0.1-297+debug</version>
+		<change>الإصدار الأولي للأداة</change>
+	</changes>
+</changelog>
+

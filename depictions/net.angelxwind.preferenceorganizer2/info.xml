@@ -1,0 +1,33 @@
+<package>
+	<id>net.angelxwind.preferenceorganizer2</id>
+	<name>اداة preferenceorganizer2</name>
+	<version>4.0.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>6.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, PreferenceLoader, iOS >= 6.0, KarenPrefs, KarenLocalizer</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>تجميع صفحة الاعدادات في جهازك وتقسيمها الى 4 اقسام يسهل عليك الوصول الى مبتغاك
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>صوره</description>			
+			<image>1.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>صوره</description>		
+			<image>2.png</image>
+		</screenshot>	
+	</screenshots>
+	<changelog>
+		<change>اصلاح خطا في iOS 10 كان يتسبب في الخروج من الاعدادات بشكل مفاجىء</change>
+		<change>اصلاحات عامه لتحسين الاداه</change>
+	</changelog>
+</package>

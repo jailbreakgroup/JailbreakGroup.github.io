@@ -1,0 +1,19 @@
+<changelog>
+	<changes>
+		<version>1.4</version>
+		<change>الغاء تاثير الاداة عند تفعيل المنبة</change>
+	</changes>
+	<changes>
+		<version>1.3.4</version>
+		<change>تمكين إعداتا للاداة</change>
+	</changes>
+	<changes>
+		<version>1.3.3</version>
+		<change>تحديث للأداة لدعم توافق الاصدارات</change>
+	</changes>
+    <changes>
+		<version>1.3.2</version>
+		<change>تحسينات واصلاح للمشاكل</change>
+	</changes>
+</changelog>
+

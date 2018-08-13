@@ -1,0 +1,19 @@
+<changelog>
+	<changes>
+		<version>31.1</version>
+		<change>تعديلات لامكانية عمل الاداه على 11.4 بيتا 2,3,4</change>
+	</changes>
+	<changes>
+		<version>31.0</version>
+		<change>اصلاحات لمشاكل على الاجهزة القديمه iOS 5</change>
+	</changes>
+	<changes>
+		<version>30.0</version>
+		<change>دعم وتاكيد بالكامل لعمل الاداه على 11.4</change>
+	</changes>
+    <changes>
+		<version>24.0</version>
+		<change>دعم بالكامل لنظام 11.3.1</change>
+	</changes>
+</changelog>
+

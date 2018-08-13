@@ -1,0 +1,22 @@
+<changelog>
+	<changes>
+		<version>4.0.5</version>
+		<change>اصلاح خطا في iOS 10 كان يتسبب في الخروج من الاعدادات بشكل مفاجىء</change>
+		<change>اصلاحات عامه لتحسين الاداه</change>
+	</changes>
+	<changes>
+		<version>4.0.4</version>
+		<change>اصلاح خطأ في iOS 7 كان يتسبب في تكرار تطبيقات النظام اكثر من مره في القوائم</change>
+		<change>اصلاح اخطاء عديدة للاصدار iOS 11</change>
+		<change>اضافة اللغه الالمانيه والتركيه والماليزيه والايطاليه والعربيه والكوريه</change>
+	</changes>
+	<changes>
+		<version>4.0.3</version>
+		<change>اضافة اللغه الاسبانيه</change>
+	</changes>
+    <changes>
+		<version>4.0.2</version>
+		<change>اصلاحات بالجملة</change>
+	</changes>
+</changelog>
+

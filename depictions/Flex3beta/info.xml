@@ -1,0 +1,33 @@
+<package>
+	<id>Flex3beta</id>
+	<name>اداة Flex 3</name>
+	<version>1:3~Beta48</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, iOS>= 9.0, RocketBootstrap</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>فليكس 3 هو احد الخيارات الاكثر متعه لتعديل الامور البسيطه تستطيع صناعة باتشات والتعديل على ملفات النظام من خلاله وصناعه اي تعديل حسب حاجتك ايضا هناك الالاف ممن يصنع لنفسه ثم يقوم برفع العمل ليستفيد منه الاخرين
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>صوره</description>			
+			<image>1.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>صوره</description>		
+			<image>2.png</image>
+		</screenshot>	
+	</screenshots>
+	<changelog>
+		<change>اصلاح خطا كان يتسبب في انهيار التطبيق بعد تطبيق الباتش  عليه</change>
+		<change>هذه هي النسخه ما قبل النهائيه Felx 4</change>
+	</changelog>
+</package>

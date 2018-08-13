@@ -1,0 +1,31 @@
+<package>
+	<id>net.angelxwind.mikoto</id>
+	<name>اداة Mikoto</name>
+	<version>4.0.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>5.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>iOS>= 5.0, MobileSubstrate, PreferenceLoader, KarenPrefs, KarenLocalizer</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>اداة بها الالاف من المميزات وجودها ضروري ولا غنى عنه
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>مركز التحكم</description>			
+			<image>1.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>اعادة كتابة كود السويتشر من الصفر</change>
+		<change>اصلاح واضافة تشغيل الاداه على الـ iPhone X</change>
+		<change>بشكل مؤقت: تم تعطيل خيار اخفاء حساب الاي كلاود في الاعدادات وذلك للتبليغ عن خطا بها من قبل بعض المستخدمين</change>
+		<change>تثبيت mikoto سوف يقوم مباشرة بازالة اداه SimpleLSiOS بسبب انهيار الاداه وتعارضها </change>
+	</changelog>
+</package>

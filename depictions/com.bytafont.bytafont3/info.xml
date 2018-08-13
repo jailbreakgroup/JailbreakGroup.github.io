@@ -1,0 +1,28 @@
+<package>
+	<id>com.bytafont.bytafont3</id>
+	<name>اداة bytafont 3</name>
+	<version>3.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>iOS>=11, MobileSubstrate, unzip</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>ادارة الخطوط لجهازك وتثبيت اي خط يعجبك
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>صوره</description>			
+			<image>1.png</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>إضافة دعم اصدار 11</change>
+	</changelog>
+</package>
