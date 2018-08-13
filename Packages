@@ -357,9 +357,9 @@ Installed-Size: 176
 Package: com.creaturecoding.libcspreferences
 Version: 0.9.9.9
 Architecture: iphoneos-arm
-Maintainer: CreatureSurvive <dbuehre@me.com>
-Depends: preferenceloader, mobilesubstrate
-Filename: debs/com.creaturecoding.libcspreferences_0.9.9.9_iphoneos-arm.deb
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>=9.0), preferenceloader
+Filename: debs/libcspreferences_0.9.9.9.deb
 Size: 266950
 MD5sum: aa7b8d9d4efbfd983501853ee333a163
 SHA1: 493c46aee9f7bfe58fe486d9f4677c210e84c184
@@ -367,10 +367,12 @@ SHA256: ff557efb3a2335507087e310055b0732becf3d6a507594c2395444ada33c7c02
 Section: System
 Priority: optional
 Description: أداة مساعدة
-Author: CreatureSurvive <dbuehre@me.com>
+Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://jailbreakgroup.github.io/depictions/?p=com.creaturecoding.libcspreferences
 Name: libCSPreferences
-Installed-Size: 1624
+Installed-Size: 1724
+dev: creaturecoding
+Tag: purpose::extension, cydia::obsolete, compatible::ios10
 
 Package: com.creaturecoding.fastdel
 Version: 0.3
