@@ -485,3 +485,178 @@ Description: تغيير شكل واجهة تغيير الصوت
 Author: Jeffrey Chan <pikabu.jeffrey.chan@gmail.com>
 Depiction: https://jailbreakgroup.github.io/depictions/?p=com.jeffrey.pikabulite
 Name: Pikabu Lite
+
+Package: com.laughingquoll.cowbell
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: LaughingQuoll
+Depends: mobilesubstrate
+Filename: debs/com.laughingquoll.cowbell_1.2.1_iphoneos-arm.deb
+Size: 6104
+MD5sum: 593a594514d3c4831cd2026c72aeaf22
+SHA1: 38df269013832cfe15118d38ab1dff6df4230f21
+SHA256: d0bbe63d1efcb4b1090e7ff3e937b0325248f7c8c0629e9a56c880abdaa56abf
+Section: Tweaks
+Priority: optional
+Description: اضافة نسبة البطارية على زر موفر الطاقة في مركز التحكم
+Author: LaughingQuoll
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.laughingquoll.cowbell
+Name: Cowbell
+Installed-Size: 120
+
+Package: applebetas.ios.tweak.watchreboot
+Version: 1.0.0-38
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: debs/applebetas.ios.tweak.watchreboot_1.0.0-38_iphoneos-arm.deb
+Size: 7754
+MD5sum: eaf5531e2b485093759d9750e37a0315
+SHA1: 6c8e0272e640b6069f6080fb83144b07689aea8f
+SHA256: 2c7206c473f09ae4bee91d3374ea2f2b217e8b2e8f58c3058b13388928a62cb1
+Section: Tweaks
+Priority: optional
+Description: إرسال تنبية إلى ساعة ابل واعادة تشغيل الساعة
+Author: AppleBetas
+Depiction: https://jailbreakgroup.github.io/depictions/?p=applebetas.ios.tweak.watchreboot
+Name: WatchReboot
+Installed-Size: 120
+
+Package: com.a3tweaks.flipswitch
+Version: 1.0.0-38
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Depends: mobilesubstrate (>= 0.9.5001), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0)
+Conflicts: com.rpetrich.donotdisturbtoggle (<= 1.0-1), com.jerryen.rotationlockflipswitch
+Replaces: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Filename: debs/com.a3tweaks.flipswitch_1.0.16~beta2_iphoneos-arm.deb
+Size: 273784 
+MD5sum: 1ed438e014907eb486ce0d6c8bd31f1c
+SHA1: 69eadbd0cc963168bbf129ddd0c0f8c0b63c34dc
+SHA256: 42e2192cc12aa43024d59eeba2d05d714fa323a86868b96ac89d9fc6c100bf7b
+Section: System
+Priority: optional
+Description: إرسال تنبية إلى ساعة ابل واعادة تشغيل الساعة
+Author: rpetrich <rpetrich+flipswitch@gmail.com>
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.a3tweaks.flipswitch
+Name: Flipswitch
+Installed-Size: 120
+
+Package: com.thecomputerwhisperer.detailedpowerusage
+Version: 1.0.0-38
+Architecture: iphoneos-arm
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: org.thebigboss.detailedbatteryusage
+Filename: debs/com.thecomputerwhisperer.detailedpowerusage_1.0.2-1b_iphoneos-arm.deb
+Size: 548104 
+MD5sum: 1ed438e014907eb486ce0d6c8bd31f1c
+SHA1: 69eadbd0cc963168bbf129ddd0c0f8c0b63c34dc
+SHA256: 42e2192cc12aa43024d59eeba2d05d714fa323a86868b96ac89d9fc6c100bf7b
+Section: Tweaks
+Icon: file:///Library/Application Support/DPUTweakResources/kTCWIcon.png
+Priority: optional
+Description: إرسال تنبية إلى ساعة ابل واعادة تشغيل الساعة
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.thecomputerwhisperer.detailedpowerusage
+dev: TheComputerWhisperer
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
+Name: DetailedPowerUsage
+Installed-Size: 980
+
+Package: com.thecomputerwhisperer.eztweaklist
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: firmware (>=9.0), mobilesubstrate, dpkg, cydia
+Filename: debs/com.thecomputerwhisperer.eztweaklist_1.0.1-1_iphoneos-arm.deb
+Size: 17286 
+MD5sum: 2e8685907f37faf8d9bc86bed3614be3
+SHA1: 5e0643a229694b90fa03dc2f72969c4b58265ab9
+SHA256: 93e09a941d28e659cde1cfda41275e530bc8ccd91d2ff52a1cd6367dbc13e5b0
+Section: Addons
+Icon: file:///Library/Application Support/DPUTweakResources/kTCWIcon.png
+Priority: optional
+Description: إضافة للسيديا تمكنك من نشر الادوات المثبتة
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.thecomputerwhisperer.eztweaklist
+dev: TheComputerWhisperer
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
+Name: EZTweakList
+Installed-Size: 140
+
+Package: com.thecomputerwhisperer.foldercloserxi
+Version: 1.0.2-1
+Architecture: iphoneos-arm
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Filename: debs/com.thecomputerwhisperer.foldercloserxi_1.0.2-1_iphoneos-arm.deb
+Size: 20804 
+MD5sum: 1cb89204a508905d2920f7b04f94e8c3
+SHA1: fc45a37ac4c2820965e81572eefd8438baa38dfa
+SHA256: 4fa4ffe9cd11c430128bccf8675da9c812eb19758a54f7eea681603b183383f6
+Section: Tweaks
+Icon: file:///Library/PreferenceLoader/Preferences/FolderCloserXI@2x.png
+Priority: optional
+Description: إغلاق المجلد تلقائيا بعداغلاق التطبيق
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.thecomputerwhisperer.foldercloserxi
+dev: TheComputerWhisperer
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
+Name: FolderCloserXI
+Installed-Size: 188
+
+Package: com.subdiox.storeswitcher2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Depends: firmware (>= 11), mobilesubstrate
+Filename: debs/com.subdiox.storeswitcher2_1.0.1_iphoneos-arm.deb
+Size: 10720
+MD5sum: e06d17dbadcb84dd88a934c4f60a5d02
+SHA1: 20a0998a3a9816b423bc84ffcb128c4b7a56b06a
+SHA256: e360e1d2edf543f4f2ca2d0f95a6847de0fabe452ea7234f17a99fa7e39326ac
+Section: Tweaks
+Priority: optional
+Description: التبديل بين حسابات الاب ستور
+Author: subdiox
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.subdiox.storeswitcher2
+Name: StoreSwitcher 2
+Installed-Size: 84
+
+Package: com.spark.batterypercentx
+Version: 1.2.1-1
+Architecture: iphoneos-arm
+Maintainer: Spark
+Depends: mobilesubstrate
+Filename: debs/com.spark.batterypercentx_1.2.1-1_iphoneos-arm.deb
+Size: 190692
+MD5sum: dc929eaa0aea4b7083fea189e80cf279
+SHA1: 9d7f9c5c34ffa0a84560ef9458a86d8a2bdeeb30
+SHA256: 689300b18747c6d846c8011c72e9df29958ec7b3b7e7f620b710684118ea8ac1
+Section: Tweaks
+Priority: optional
+Description: التبديل بين حسابات الاب ستور
+Author: Spark
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.spark.batterypercentx
+Name: BatteryPercentX
+Installed-Size: 668
+
+Package: com.spark.easyswitcherx
+Version: 0.0.4-5
+Architecture: iphoneos-arm
+Maintainer: Spark
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.spark.easyswitcherx_0.0.4-5_iphoneos-arm.deb
+Size: 52158
+MD5sum: 438ba67ccc777f303ba9792422a8497d
+SHA1: 8d1c912bf783e04c20512a4a92c836e8c1f71784
+SHA256: cea5745de803859005909ae7c585866c44156b0d1ddf5753b7177ba10e4b38bc
+Section: Tweaks
+Priority: optional
+Description: التبديل بين حسابات الاب ستور
+Author: Spark
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.spark.easyswitcherx
+Name: EasySwitcherX
+Installed-Size: 308
