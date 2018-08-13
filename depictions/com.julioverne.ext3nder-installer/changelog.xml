@@ -1,0 +1,28 @@
+<changelog>
+	<changes>
+		<version>021</version>
+		<change>اصلاح التجديد التلقائي على iOS 11 عندما يكون الهاتف مغلق ب رمز الدخول</change>
+	</changes>
+	
+	<changes>
+		<version>018 - 019</version>
+		<change>دعم اصدارات iOS 11</change>
+	</changes>
+	
+	<changes>
+		<version>017</version>
+		<change>اصلاح حقوق الاستيراد</change>
+		</changes>
+	
+	<changes>
+		<version>016</version>
+		<change>اضافة خيار ان كان هناك اكثر من فريق (TeamID) </change>
+	</changes>
+	
+	<changes>
+		<version>015</version>
+		<change>حظر cydia dubstrate + خيار للتحكم في مدير التطبيقات</change>
+	</changes>
+	
+</changelog>
+

@@ -1,0 +1,28 @@
+<package>
+	<id>com.julioverne.fiona</id>
+	<name>اداة fiona</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, preferenceloader</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>عند انقطاع الشبكه تلقائياً يفصل جهازك مع هذه الاداه ستظل متصل بالواي فاي
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>صوره</description>			
+			<image>1.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>اصدار اولي للاداة</change>
+	</changelog>
+</package>

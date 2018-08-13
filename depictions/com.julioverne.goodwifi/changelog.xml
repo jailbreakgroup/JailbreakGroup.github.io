@@ -1,0 +1,18 @@
+<changelog>
+	<changes>
+		<version>0.0~beta4</version>
+		<change>دعم iOS 11 بالكامل</change>
+	</changes>
+	
+	<changes>
+		<version>0.0~beta3</version>
+		<change>امكانية نسخ باسورد الشبكة</change>
+	</changes>
+	
+	<changes>
+		<version>0.0~beta1</version>
+		<change>اصدار اولي للاداه</change>
+	</changes>
+	
+</changelog>
+

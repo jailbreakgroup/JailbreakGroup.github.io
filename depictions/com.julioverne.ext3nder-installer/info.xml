@@ -1,0 +1,32 @@
+<package>
+	<id>com.julioverne.ext3nder-installer</id>
+	<name>اداة ext3nder-installer</name>
+	<version>021a</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, ldid, unzip, coreutils, zip, sed</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>* تجديد تلقائي للتطبيقات</description>
+		</description>* تثبيت ملفات ابل الـ IPA من الجهاز مباشرة</description>
+		</description>* محرر ملفات</description>
+		</description>* مشاركة الواي فاي</description>
+		</description>* تحكم بالتطبيقات المثبته</description>
+        </description>* اعادة بناء الملفات وجعلها بصيغة IPA</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>صوره</description>			
+			<image>1.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>اصلاح التجديد التلقائي على iOS 11 عندما يكون الهاتف مغلق ب رمز الدخول</change>
+	</changelog>
+</package>

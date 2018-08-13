@@ -1,0 +1,30 @@
+<package>
+	<id>com.julioverne.ntspeed</id>
+	<name>اداة NtSpeed</name>
+	<version>0.2~beta6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>6.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>firmware (>= 6.0), mobilesubstrate, preferenceloader</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>عرض سرعة الانترنت بجهازك على الشاشة دائماً</description>
+		</description></description>
+
+		</descriptionlist>
+
+	<screenshots>
+		<screenshot>
+			<description>صوره</description>			
+			<image>1.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>تجاهل اللمس داخل الـ NtSpeed</change>
+	</changelog>
+</package>
