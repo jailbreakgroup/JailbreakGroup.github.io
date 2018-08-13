@@ -10,7 +10,7 @@ MD5sum: d2ffdc66b5735c12a360225cb71e57e8
 SHA1: 9bfe30f839ecc221a89d15ffe7ad9ce4203f2ffc
 SHA256: 9229d74d837c1fac1bf6ff1b304e0784f6cf6e3f867e943318433cf37ede9586
 Description: إنشاء/تثبيت باتشات خاصة فالنظام
-Depiction: https://qaws95.github.io/depictions/?p=Flex3beta
+Depiction: https://jailbreakgroup.github.io/depictions/?p=Flex3beta
 Maintainer: John Coates
 Author: John Coates
 Section: Tweaks
@@ -27,7 +27,7 @@ SHA1: fd955d42f0f43ac11a8b5a6349ee5f0a904f9b0d
 SHA256: e68dcd0c771573f480c2ae798fad342c54d0b78795647994a07cca189fe9a005
 Description: تغيير شكل مركز التحكم وجعله مشابة الى نظام الاندرويد
 Icon: file:///Library/PreferenceBundles/Nougat.bundle/icon@2x.png
-Depiction: https://qaws95.github.io/depictions/?p=com.shade.nougat
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.shade.nougat
 Maintainer: Shade Zepheri <ziroalpha@gmail.com>
 Author: Shade Zepheri <ziroalpha@gmail.com>
 Section: Tweaks
@@ -47,7 +47,7 @@ SHA1: aee6ce5f65f998b26250b4cf7e552e21516a5aff
 SHA256: 710c384841f80d37c39b38fdff21ca1c2f9279d5407486fa9545ca04ccd59bb1
 Description: تنظيف وتحرير جهازك من مخلفات التصفح والملفات الزائدة
 Icon: file:///Applications/iCleaner.app/Icon-Small@2x.png
-Depiction: https://qaws95.github.io/depictions/?p=com.exile90.icleanerpro
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.exile90.icleanerpro
 Maintainer: Ivano Bilenchi <support@ib-soft.net>
 Author: Ivano Bilenchi <support@ib-soft.net>
 Section: Utilities
@@ -65,7 +65,7 @@ MD5sum: 07ecb5140e97da96e5ff72bdbdfc7949
 SHA1: d76fa1ca1897d957da6eb68399867ce964ec3591
 SHA256: 52830b7cace4229c802f864e660a7128e48fcb60cad7f19e351bf685ffe8f283
 Description: موجة اوامر
-Depiction: https://qaws95.github.io/depictions/?p=ws.hbang.newterm2
+Depiction: https://jailbreakgroup.github.io/depictions/?p=ws.hbang.newterm2
 Maintainer: HASHBANG Productions <support@hbang.ws>
 Author: HASHBANG Productions <support@hbang.ws>
 Section: Terminal Support
@@ -84,7 +84,7 @@ MD5sum: 13e2434452f97abd6db29126dae9984c
 SHA1: 6aeb69f6e862e7803fdc76ca108d28d38d20d632
 SHA256: 921e9cb1af2350b1c61ed458a640ef8312bc76067dce5a0eec1e530839d2a8e2
 Description: تطبيق لالغاء الاداوات , يساعدك في حل المشاكل
-Depiction: https://qaws95.github.io/depictions/?p=us.nakedproductions.dylibdisabler3
+Depiction: https://jailbreakgroup.github.io/depictions/?p=us.nakedproductions.dylibdisabler3
 Maintainer: EvilPenguin / ichitaso
 Author: EvilPenguin / ichitaso
 Section: Utilities
@@ -101,7 +101,7 @@ MD5sum: de8005d35c2204becf725c327f68e1e5
 SHA1: 434f034c55b792f51216342afd04ab965a614570
 SHA256: 01574e57f52163b9c776c8ea86b03e511b3dcbc0918cdedef9ceedd71e23a9f8
 Description: إخفاء الجلبريك عن التطبيقات
-Depiction: https://qaws95.github.io/depictions/?p=com.ryleyangus.libertylite
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.ryleyangus.libertylite
 Maintainer: Ryley Angus
 Author: Ryley Angus
 Section: Tweaks
@@ -121,7 +121,7 @@ MD5sum: cb584a2d75048730a1f0455121075f4f
 SHA1: 7f15d1b69224da9f54271116401b73d9fa7df467
 SHA256: 465eccc598b4d061b7dd49f1cd3a49ecea27adc62d49afc963888840f19c819e
 Description: تجميع صفحة الاعدادات في جهازك وتقسيمها الى 4 اقسام يسهل عليك الوصول الى مبتغاك
-Depiction: https://qaws95.github.io/depictions/?p=net.angelxwind.preferenceorganizer2
+Depiction: https://jailbreakgroup.github.io/depictions/?p=net.angelxwind.preferenceorganizer2
 Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
 Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
 Section: Tweaks
@@ -139,7 +139,7 @@ MD5sum: e1f49254a62ed949fd6d7d44c0b01043
 SHA1: 5717d7348bd1a23cc7bb94f659704409a21eeb8a
 SHA256: ea31dd47acfa2c397664ffb19e8bcc130d356d37fad49ccd6c45ebb32f06de69
 Description: اداة بها الالاف من المميزات وجودها ضروري ولا غنى عنه
-Depiction: https://qaws95.github.io/depictions/?p=net.angelxwind.mikoto
+Depiction: https://jailbreakgroup.github.io/depictions/?p=net.angelxwind.mikoto
 Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
 Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
 Section: Tweaks
@@ -156,7 +156,7 @@ MD5sum: 44167107191191eb1432781917787540
 SHA1: 6e4c9dee46a2e2d978b97808e067a56c47ae06e5
 SHA256: b76c02b9854e0e5c40244bcdd4118dd31eae8d104ce9140c72499a691495c300
 Description: اضافة ايقونة خامسة للدوك السفلي
-Depiction: https://qaws95.github.io/depictions/?p=me.gmoran.fiveicondockxi
+Depiction: https://jailbreakgroup.github.io/depictions/?p=me.gmoran.fiveicondockxi
 Maintainer: Guillermo Moran
 Author: Guillermo Moran
 Section: Tweaks
@@ -173,7 +173,7 @@ MD5sum: 693022ef5f547b74310d91b4c5493c5f
 SHA1: a338636fa9aea089973931af9cd1310462c6f3ba
 SHA256: 54737b61d903e6e624aa82123d6ad45b1b6de2dd358c869382350d790274785f
 Description: أضافة FlipSwitch إلى CCSupport
-Depiction: https://qaws95.github.io/depictions/?p=com.julioverne.flipconvert
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.julioverne.flipconvert
 Maintainer: Julioverne
 Author: Julioverne
 Section: Tweaks
@@ -189,7 +189,7 @@ MD5sum: 66397cc1ea555845371bf859725a419b
 SHA1: 82119df72671dbaca889a1f765a1c09ae606db32
 SHA256: 03cb7fb18fb13e6553eb79533c26f41a984034e47c8a2f5ce76cce58fa2ab5a7
 Description: تغيير تصميم السيديا
-Depiction: https://qaws95.github.io/depictions/?p=com.julioverne.celldia
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.julioverne.celldia
 Maintainer: Julioverne
 Author: Julioverne
 Section: Tweaks
@@ -205,7 +205,7 @@ MD5sum: 3db3fcacf6568e5316be5c344d60fcff
 SHA1: 2e4a7a7ae7e8c76ea85511d1fe7959857ed4f0a1
 SHA256: d9d3c56f2697463d56514eabd5b51b6af6c0826b89baed015b52f2b266ae5b96
 Description: تسريع عملية فتح القفل عن طريق ال FaceID
-Depiction: https://qaws95.github.io/depictions/?p=com.cpdigitaldarkroom.fastunlockx
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.cpdigitaldarkroom.fastunlockx
 Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
 Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
 Section: Tweaks
@@ -222,7 +222,7 @@ MD5sum: 1a0f179386ca7b6ae4640942c2409280
 SHA1: 1cc6221afcb0d30cb89b84443fe2dbbf132ca798
 SHA256: f8565768e5d94054dbbd80f870f7a31f09aa5695e8cf830913473a0b8bb5567f
 Description: تغير لون الاشعارات لنفس لون التطبيق
-Depiction: https://qaws95.github.io/depictions/?p=ch.mdaus.palette
+Depiction: https://jailbreakgroup.github.io/depictions/?p=ch.mdaus.palette
 Maintainer: Maxwell Dausch <max.dausch@gmail.com>
 Author: Maxwell Dausch <max.dausch@gmail.com>
 Section: Tweaks
@@ -239,7 +239,7 @@ MD5sum: c95896b9e7ef51b485629a2a8e5c1353
 SHA1: dd3a3ea8126f761526831ed33ed968a7db554607
 SHA256: 28d43e00fae59dda46d256890eb821d1607ccf2219710c0eacbf73635f2e2291
 Description: حفظ المقاطع من الانستقرام
-Depiction: https://qaws95.github.io/depictions/?p=me.alfhaily.rocket
+Depiction: https://jailbreakgroup.github.io/depictions/?p=me.alfhaily.rocket
 Maintainer: Majd Alfhaily
 Author: Majd Alfhaily
 Section: Tweaks
@@ -260,7 +260,7 @@ Section: Tweaks
 Priority: optional
 Description: إرجاع إصدار التطبيقات من الاب ستور
 Author: CokePokes
-Depiction: https://qaws95.github.io/depictions/?p=com.cokepokes.appstoreplusplus
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.cokepokes.appstoreplusplus
 Name: AppStore++
 
 Package: net.angelxwind.appsyncunified
@@ -279,7 +279,7 @@ Section: Tweaks
 Priority: optional
 Description: امكانية تثبيت التطبيقات من خارج المتجر + مساعدة في تكرار التطبيقات والغير موقعه بشهادة مطورين
 Author: Linus Yang, Karen/あけみ <karen@angelxwind.net>
-Depiction: https://qaws95.github.io/depictions/?p=net.angelxwind.appsyncunified
+Depiction: https://jailbreakgroup.github.io/depictions/?p=net.angelxwind.appsyncunified
 Name: AppSync Unified
 Installed-Size: 256
 
@@ -297,7 +297,7 @@ Section: System
 Priority: optional
 Description: ادارة الخطوط لجهازك وتثبيت اي خط يعجبك
 Author: BytaFont.com <info@bytafont.com>
-Depiction: https://qaws95.github.io/depictions/?p=com.bytafont.bytafont3
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.bytafont.bytafont3
 Name: BytaFont 3
 
 Package: applebetas.ios.tweak.sleekquicktype
@@ -314,7 +314,7 @@ Section: Tweaks
 Priority: optional
 Description: تغير شكل الاقتراحات اعلى الكيبورد مثل iOS 12
 Author: AppleBetas
-Depiction: https://qaws95.github.io/depictions/?p=applebetas.ios.tweak.sleekquicktype
+Depiction: https://jailbreakgroup.github.io/depictions/?p=applebetas.ios.tweak.sleekquicktype
 Name: SleekQuickType
 Installed-Size: 72
 
@@ -332,7 +332,7 @@ Section: Tweaks
 Priority: optional
 Description: تعريض الساعة
 Author: AppleBetas
-Depiction: https://qaws95.github.io/depictions/?p=applebetas.ios.tweak.time11
+Depiction: https://jailbreakgroup.github.io/depictions/?p=applebetas.ios.tweak.time11
 Name: TimeXI
 Installed-Size: 72
 
@@ -350,7 +350,7 @@ Section: Tweaks
 Priority: optional
 Description: إضافة انيميشن عند النزول والطلوع في الصفحة
 Author: CreatureSurvive <dbuehre@me.com>
-Depiction: https://qaws95.github.io/depictions/?p=com.creaturecodiing.ebullience
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.creaturecodiing.ebullience
 Name: ebullience
 Installed-Size: 176
 
@@ -368,7 +368,7 @@ Section: System
 Priority: optional
 Description: أداة مساعدة
 Author: CreatureSurvive <dbuehre@me.com>
-Depiction: https://qaws95.github.io/depictions/?p=com.creaturecoding.libcspreferences
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.creaturecoding.libcspreferences
 Name: libCSPreferences
 Installed-Size: 1624
 
@@ -386,7 +386,7 @@ Section: Tweaks
 Priority: optional
 Description: تسريع عملية حذف الكلام
 Author: CreatureSurvive <dbuehre@me.com>
-Depiction: https://qaws95.github.io/depictions/?p=com.creaturecoding.fastdel
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.creaturecoding.fastdel
 Name: FastDel
 Installed-Size: 440
 
@@ -404,7 +404,7 @@ Section: Tweaks
 Priority: optional
 Description: إخفاء / كتم الرسائل
 Author: CreatureSurvive <support@creaturecoding.com>
-Depiction: https://qaws95.github.io/depictions/?p=com.creaturecoding.covert
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.creaturecoding.covert
 Icon: 
 Name: covert
 Installed-Size: 72
@@ -423,7 +423,7 @@ Section: Tweaks
 Priority: optional
 Description: نسخ رابط الفيديو من المشغل
 Author: CreatureSurvive <support@creaturecoding.com>
-Depiction: https://qaws95.github.io/depictions/?p=com.creaturecoding.copyvideourl
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.creaturecoding.copyvideourl
 Icon: 
 Name: CopyVideoURL
 Installed-Size: 200
@@ -443,7 +443,7 @@ Section: Tweaks
 Priority: optional
 Description: أخذ صورة كاملة للشاشة
 Author: Tapan Thaker (tapthaker) <tapan.d.thaker@gmail.com>
-Depiction: https://qaws95.github.io/depictions/?p=com.tapthaker.bigshotjb11
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.tapthaker.bigshotjb11
 Tag: purpose::extension, compatible::ios9
 dev: tapthaker 
 Name: BigShotJb (iOS 11)
@@ -463,7 +463,7 @@ Section: Tweaks
 Priority: optional
 Description: أكثر من 46 خيار لتعديل النظام
 Author: Lucifers Circle <luciferscircle@gmail.com>
-Depiction: https://qaws95.github.io/depictions/?p=com.idevicehacked.miscsettings
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.idevicehacked.miscsettings
 Name: MiscSettings
 Installed-Size: 548
 
@@ -481,5 +481,5 @@ Section: Tweaks
 Priority: optional
 Description: تغيير شكل واجهة تغيير الصوت
 Author: Jeffrey Chan <pikabu.jeffrey.chan@gmail.com>
-Depiction: https://qaws95.github.io/depictions/?p=com.jeffrey.pikabulite
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.jeffrey.pikabulite
 Name: Pikabu Lite
