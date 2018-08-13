@@ -1,0 +1,22 @@
+<package>
+	<id>com.spark.BatteryPercentX</id>
+	<name>أداة BatteryPercentX</name>
+	<version>1.2.1-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, iOS>=11.0, PreferenceLoader</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>إستبدال ايقونة البطارية بالنسبة للأييفون أكس
+		</description>
+	</descriptionlist>
+	<changelog>
+		<change>إصلاح مشكلة التعليق عند تشغيل بعض التطبيقات</change>
+	</changelog>
+</package>
