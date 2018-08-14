@@ -667,7 +667,7 @@ Architecture: iphoneos-arm
 Maintainer: Julioverne
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.julioverne.goodwifi_0.0_beta4_iphoneos-arm.deb
-Size: 54967
+Size: 54976
 MD5sum: 3866bac5a02349a472a818f7180e28ca
 SHA1: 88bc22ef84a13d778d948ba305a64dc3b921955a
 SHA256: 1ca94e369ed089db104129fc8dde5984e80b7dc90eb45c5bc9d87d42e50b317a
@@ -678,3 +678,22 @@ Author: Julioverne
 Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
 Depiction: https://jailbreakgroup.github.io/depictions/?p=com.julioverne.goodwifi
 Name: Goodwifi
+
+Package: com.julioverne.ext3nder-installer
+Version: 021a
+Architecture: iphoneos-arm
+Maintainer: Julioverne
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder
+Filename: debs/com.julioverne.ext3nder-installer_021a_iphoneos-arm.deb
+Size: 517614
+MD5sum: 97410eb497efc82931531097c071311f
+SHA1: ecbafe7ee17c2f5baaf989ac81579827b231983d
+SHA256: 7add7422664dd3040af6ce10f68a3d200c0bb4d522ce78deb1ef2e093652f135
+Section: Utilities
+Priority: optional
+Description: تجديد تلقائي للبرامج
+Author: Julioverne
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.julioverne.ext3nder-installer
+Name: Ext3nder Installer
