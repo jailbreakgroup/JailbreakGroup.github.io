@@ -697,3 +697,20 @@ Description: تجديد تلقائي للبرامج
 Author: Julioverne
 Depiction: https://jailbreakgroup.github.io/depictions/?p=com.julioverne.ext3nder-installer
 Name: Ext3nder Installer
+
+Package: com.julioverne.gravity
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: Julioverne
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.julioverne.gravity_0.5_iphoneos-arm.deb
+Size: 148142
+MD5sum: 71c8ea584147eabe2ee3803b95aea6fa
+SHA1: a7c4b89610e471c05d19d1449ba34aa257b99951
+SHA256: b5d08bd8dae545691da9018934848e59a8b6a451057892408a0e886210d1250c
+Section: Tweaks
+Priority: optional
+Description: ميل الهاتف لترقص الايقونات معك
+Author: Julioverne
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.julioverne.gravity
+Name: Gravity

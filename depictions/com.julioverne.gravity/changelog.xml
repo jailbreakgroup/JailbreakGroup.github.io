@@ -1,0 +1,18 @@
+<changelog>
+	<changes>
+		<version>05</version>
+		<change>دعم اصدار 9.3.3</change>
+	</changes>
+	
+	<changes>
+		<version>0.4</version>
+		<change>انسيابية اكثر لحركة الايقونات</change>
+	</changes>
+	
+	<changes>
+		<version>0.2</version>
+		<change>اضافة توافق لاداة Anchor + اضافة العديد من الخيارات داخل الاعدادات</change>
+	</changes>
+	
+</changelog>
+
