@@ -660,3 +660,21 @@ Author: Spark
 Depiction: https://jailbreakgroup.github.io/depictions/?p=com.spark.easyswitcherx
 Name: EasySwitcherX
 Installed-Size: 308
+
+Package: com.julioverne.goodwifi
+Version: 0.0~beta4
+Architecture: iphoneos-arm
+Maintainer: Julioverne
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.julioverne.goodwifi_0.0_beta4_iphoneos-arm.deb
+Size: 54967
+MD5sum: 3866bac5a02349a472a818f7180e28ca
+SHA1: 88bc22ef84a13d778d948ba305a64dc3b921955a
+SHA256: 1ca94e369ed089db104129fc8dde5984e80b7dc90eb45c5bc9d87d42e50b317a
+Section: Tweaks
+Priority: optional
+Description: لتقوية الـ WiFi
+Author: Julioverne
+Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.julioverne.goodwifi
+Name: Goodwifi
