@@ -1,0 +1,21 @@
+<package>
+	<id>preferenceloader</id>
+	<name>أداة PreferenceLoader</name>
+	<version>2.2.4~alpha1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>إظهار الاداوات في الاعدادات<description>
+		</description>
+	</descriptionlist>
+	<changelog>
+		<change>إضافة دعم إصدار 11</change>
+	</changelog>
+</package>

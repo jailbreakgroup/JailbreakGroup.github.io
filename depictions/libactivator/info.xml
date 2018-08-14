@@ -1,7 +1,7 @@
 <package>
 	<id>libactivator</id>
 	<name>أداة Activator</name>
-	<version>Activator</version>
+	<version>1.9.13~beta2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -12,8 +12,8 @@
 		<package>MobileSubstrate, iOS>=7.0, PreferenceLoader, FlipSwitch, RocketBootstrap</package>
 	</dependencies>
 	<shortDescription></shortDescription>
-	<descriptionlist>
-		<description>
+	<descriptionlist>اختصارات هائله ومهمه جداً<description>
+	<descriptionlist>مهم تثبيتها لاعتماد أدوات كثيره عليهاً<description>
 		</description>
 	</descriptionlist>
 	<changelog>
