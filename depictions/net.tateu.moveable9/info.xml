@@ -9,7 +9,7 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>firmware (>=9.0), mobilesubstrate, preferenceloader</package>
+		<package> Firmwareirmware (>=9.0), Mobilesubstrate, Preferenceloader</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
