@@ -1,6 +1,6 @@
 <package>
 	<id>com.julioverne.ext3nder-installer</id>
-	<name>اداة ext3nder-installer</name>
+	<name>اداة ext3nder installer</name>
 	<version>021a</version>
 	<compatibility>
 		<firmware>
