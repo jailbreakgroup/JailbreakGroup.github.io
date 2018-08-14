@@ -698,7 +698,6 @@ Author: Julioverne
 Depiction: https://jailbreakgroup.github.io/depictions/?p=com.julioverne.ext3nder-installer
 Name: Ext3nder Installer
 
-<<<<<<< HEAD
 Package: com.julioverne.gravity
 Version: 0.5
 Architecture: iphoneos-arm
@@ -715,7 +714,8 @@ Description: ميل الهاتف لترقص الايقونات معك
 Author: Julioverne
 Depiction: https://jailbreakgroup.github.io/depictions/?p=com.julioverne.gravity
 Name: Gravity
-=======
+
+
 Package: libactivator
 Version: 1.9.13~beta2
 Architecture: iphoneos-arm
@@ -753,4 +753,3 @@ Author: Ryan Petrich
 Depiction: https://jailbreakgroup.github.io/depictions/?p=preferenceloader
 Name: PreferenceLoader
 Installed-Size : 388
->>>>>>> cec633c84bd5a6b00c13790d5e936f8482a1a9b9
