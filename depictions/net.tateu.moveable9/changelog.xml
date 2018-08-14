@@ -1,0 +1,17 @@
+<changelog>
+	<changes>
+		<version>1.0.0~beta29-26</version>
+		<change>اصلاح خلل في iOS 11 لايقونة الواي فاي والبلوتوث عند تجميعهم في مكان واحد مع ثيم مستخدم</change>
+		<change>اصلاح حجم الايقونات عند تطبيقها من ثيم خارجي</change>
+	</changes>
+	<changes>
+		<version>1.0.0~beta29-25 - 2018/08/12</version>
+		<change>اصلاح مشكلة عند اخفاء البطاريه او علامة شحن الجهاز</change>
+	</changes>
+	<changes>
+		<version>1.0.0~beta29-24 - 2018/07/20</version>
+		<change>اضافة خيار لعمل تحديث عند تعديل الوقت على طريقتك الخاصه في حال اردت الثواني تظهر فوق مع الوقت</change>
+		<change>لمستخدمي iOS 11 : حذف الخيار جعل الوقت عريض لانه لا يعمل</change>
+	</changes>
+</changelog>
+
