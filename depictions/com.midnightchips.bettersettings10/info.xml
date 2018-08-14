@@ -1,0 +1,40 @@
+<package>
+	<id>com.midnightchips.bettersettings10</id>
+	<name>اداة Bettersettings10</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>5.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>تغيير خلفية اعدادات الجهاز واضافة الوان حسب رغبتك
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Pic..</description>			
+			<image>1.png</image>
+		</screenshot>	
+
+	<screenshot>
+			<description>Pic..</description>			
+			<image>2.png</image>
+		</screenshot>
+
+	<screenshot>
+			<description>Pic..</description>			
+			<image>3.png</image>
+		</screenshot>
+
+		
+	</screenshots>
+	<changelog>
+		<change>اصدار اولي للاداه</change>
+	</changelog>
+</package>

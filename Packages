@@ -753,3 +753,20 @@ Author: Ryan Petrich
 Depiction: https://jailbreakgroup.github.io/depictions/?p=preferenceloader
 Name: PreferenceLoader
 Installed-Size : 388
+
+Package: com.midnightchips.bettersettings10
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: midnightchips
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
+Filename: debs/5b7315666593ee0010ffdcfb.deb
+Size: 89980
+MD5sum: f9acfeed7a5578615fba84b970cc98b8
+SHA1: fcede5f4316421bf449e4ac3daa6c06eb2555a35
+SHA256: e99558d912fbaada08ca27420ce573e332dbd8ac7a584f5665c95cb241158819
+Section: Tweaks
+Priority: optional
+Description: ضع صورة في اعدادات جهازك كخلفية
+Author: midnightchips
+Depiction: https://jailbreakgroup.github.io/depictions/?p=com.midnightchips.bettersettings10
+Name: BetterSettings10
