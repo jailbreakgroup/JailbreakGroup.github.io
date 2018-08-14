@@ -1,0 +1,36 @@
+<package>
+	<id>com.julioverne.wishdia</id>
+	<name>اداة WishDia</name>
+	<version>0.0~beta1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.3.1</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>قد ترى اداه وبعد فتره تنساها مع هالاداه سيتم جمع الادوات في قائمة الامنيات</shortDescription>
+	<descriptionlist>
+		<description>قائمة الامنيات : لحفظ او شراء الادوات في وقت اخر يتم تجميعها في قائمة الامنيات</description>
+		<description>تجد الخيار في السيديا اعلى يسار الشاشه بعد التثبيت</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>صوره</description>			
+			<image>1.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>صوره</description>		
+			<image>2.png</image>
+		</screenshot>
+		<screenshot>
+			<description>صوره</description>				
+			<image>3.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>اصداري اولـي</change>
+	</changelog>
+</package>
