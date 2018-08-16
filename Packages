@@ -1,0 +1,766 @@
+Package: Flex3beta
+Name: Flex 3 Beta
+Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap
+Recommended: com.modmyi.libswift4 (>= 4.0.3)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, flex3featurecatalog
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, flex3featurecatalog
+Version: 1:3~Beta48
+Architecture: iphoneos-arm
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Maintainer: John Coates
+Author: John Coates
+Section: Tweaks
+Size: 20685344
+MD5sum: d2ffdc66b5735c12a360225cb71e57e8
+Filename: ./debs/Flex3_3_Beta48.deb
+
+Package: com.cokepokes.appstoreplusplus
+Name: AppStore++
+Version: 0.6-2
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11.
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.appadmin
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: CokePokes
+dev: 
+Homepage: 
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Maintainer: CokePokes
+Icon: 
+Size: 776792
+MD5sum: 1fd2d89ef50917da14358fb8ab003435
+Filename: ./debs/appstoreplusplus_0.6-2.deb
+
+Package: net.angelxwind.appsyncunified
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 11.4.1)
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.appsyncunified
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Homepage: https://cydia.angelxwind.net/
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Name: AppSync Unified
+Architecture: iphoneos-arm
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Section: Tweaks
+Author: Linus Yang, Karen/あけみ <karen@angelxwind.net>
+Version: 31.1
+Installed-Size: 256
+Size: 30362
+MD5sum: 3d066c0024bacf35a705da8907a11e1a
+Filename: ./debs/appsyncunified.deb
+
+Author: kunderscore <kunderscore3@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Avertas
+Package: com.kunderscore.avertas
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, applist
+Section: Tweaks
+Installed-Size: 196
+Version: 7-1
+Architecture: iphoneos-arm
+Description: Quick Switcher and Hot Corners
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=avertasDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=avertasDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: kunderscore
+Tag: purpose::extension, compatible::ios11
+Icon: file:///Library/PreferenceBundles/AvertasPreferences.bundle/Avertas@2x.png
+Size: 40856
+MD5sum: ae68239e7867eaf571e726a6318fa9bd
+Filename: ./debs/avertas_7-1.deb
+
+Package: com.spark.batterypercentx
+Name: BatteryPercentX [Public]
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Replaces the battery icon with percentage on the iPhone X
+Depiction: https://member.sparkservers.co.uk/Depictions/Depiction?productName=BatteryPercentX
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 1.2.1-1
+Installed-Size: 668
+Size: 190692
+MD5sum: dc929eaa0aea4b7083fea189e80cf279
+Filename: ./debs/batterypercentx_1.2.1-1.deb
+
+Package: com.midnightchips.bettersettings10
+Name: BetterSettings10
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker, firmware(<<11)
+Architecture: iphoneos-arm
+Description: Settings your way
+Maintainer: midnightchips
+Author: midnightchips
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 556
+Size: 89980
+MD5sum: f9acfeed7a5578615fba84b970cc98b8
+Filename: ./debs/bettersettings10.deb
+
+Name: BigShotJb (iOS 11)
+Package: com.tapthaker.bigshotjb11
+Priority: optional
+Depends: firmware (>= 8.0), mobilesubstrate, libactivator (>= 1.8.3), com.rpetrich.rocketbootstrap
+Conflicts: com.tapthaker.bigshotjb
+Version: 0.0.2-2
+Architecture: iphoneos-arm
+Description: take screenshots of full vertical scrollable area
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bigshotjbDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bigshotjbDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Tapan Thaker (tapthaker) <tapan.d.thaker@gmail.com>
+dev: tapthaker
+Section: Tweaks
+Tag: purpose::extension, compatible::ios9
+Installed-Size: 212
+Size: 32840
+MD5sum: b1cc164bfec0012f4985b11e85be3a0e
+Filename: ./debs/bigshotjb11_0.0.2-2.deb
+
+Package: com.julioverne.celldia
+Name: CellDia
+Author: julioverne
+Version: 0.0~beta5
+Depends: mobilesubstrate, cydia
+Architecture: iphoneos-arm
+Description: Redesigned Cell Cydia
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Tweaks
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.celldia
+Size: 20012
+MD5sum: 66397cc1ea555845371bf859725a419b
+Filename: ./debs/celldia_0.0_beta5.deb
+
+Package: com.creaturecoding.copyvideourl
+Name: CopyVideoURL
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Copy URL of currently playing video
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.copyvideourl/index.html
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Author: CreatureSurvive <support@creaturecoding.com>
+Section: Tweaks
+Version: 0.1.0
+Installed-Size: 200
+Size: 3920
+MD5sum: 72f2558ee6ab9c7cfbab6ce16838cf1d
+Filename: ./debs/copyvideourl_0.1.0.deb
+
+Package: com.creaturecoding.covert
+Name: covert
+Description: Hide & Mute conversations in Messages app.
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: CreatureSurvive <support@creaturecoding.com>
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+dev: CreatureSurvive
+Homepage: https://creaturecoding.com/
+Depiction: https://creaturesurvive.github.io/repo/cydia/covert/depiction/
+Icon: 
+Version: 0.7
+Installed-Size: 72
+Size: 7700
+MD5sum: 51a7263dcbcb76bc8c5ded40e05b4ca0
+Filename: ./debs/covert_0.7.deb
+
+Package: com.laughingquoll.cowbell
+Name: Cowbell
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Make the low power module great again.
+Maintainer: LaughingQuoll
+Author: LaughingQuoll
+Section: Tweaks
+Version: 1.2.1
+Installed-Size: 120
+Size: 6104
+MD5sum: 593a594514d3c4831cd2026c72aeaf22
+Filename: ./debs/cowbell_1.2.1.deb
+
+Package: com.thecomputerwhisperer.detailedpowerusage
+Name: DetailedPowerUsage
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: org.thebigboss.detailedbatteryusage
+Architecture: iphoneos-arm
+Description: Unlock Apple's internal battery data & stats on iOS 9.x - 11.1.2.
+Depiction: https://legitcomputerwhisperer.github.io/depic/InternalBatteryData/index.html
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Section: Tweaks
+Icon: file:///Library/Application Support/DPUTweakResources/kTCWIcon.png
+dev: TheComputerWhisperer
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
+Version: 1.0.2-1b
+Installed-Size: 980
+Size: 548104
+MD5sum: 76265b6adc08066b4581cbfd55c00638
+Filename: ./debs/detailedpowerusage_1.0.2-1b.deb
+
+Name: DylibDisabler 3
+Package: us.nakedproductions.dylibdisabler3
+Depends: firmware (>= 10.0)
+Replaces: us.nakedproductions.dylibdisabler3
+Conflicts: us.nakedproductions.dylibdisabler, us.nakedproductions.dylibdisabler2
+Priority: optional
+Section: Utilities
+Description: DylibDisabler removes and disables dylibs for mobile substrate tweaks.
+Version: 3.0-0
+Maintainer: ichitaso
+Author: EvilPenguin / ichitaso
+Architecture: iphoneos-arm
+Size: 666914
+MD5sum: 13e2434452f97abd6db29126dae9984c
+Filename: ./debs/dylibdisabler_3.0-0.deb
+
+Package: com.spark.easyswitcherx
+Name: EasySwitcherX [Public]
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Swipe up on apps in the switcher to kill them, without having to press and hold (iPhone X - how it should have been)
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 0.0.4-5
+Installed-Size: 308
+Size: 52158
+MD5sum: 438ba67ccc777f303ba9792422a8497d
+Filename: ./debs/easyswitcherx_0.0.4-5.deb
+
+Package: com.creaturecodiing.ebullience
+Name: ebullience
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences
+Architecture: iphoneos-arm
+Description: Animated UITableViews
+Depiction: https://creaturesurvive.github.io/repo/cydia/ebullience/depiction/
+Maintainer: CreatureSurvive
+Author: CreatureSurvive
+Section: Tweaks
+Version: 1.0.1b
+Installed-Size: 176
+Size: 14608
+MD5sum: dda9281a026dc1fa7942451deab1a086
+Filename: ./debs/ebullience_1.0.1b.deb
+
+Package: com.julioverne.ext3nder-installer
+Name: Ext3nder Installer
+Author: julioverne
+Version: 021a
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+Conflicts: com.julioverne.ext3nder
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Cydia Extender Installer With Extra Features
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Utilities
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nder-installer
+Size: 517614
+MD5sum: 97410eb497efc82931531097c071311f
+Filename: ./debs/ext3nder-installer_021a.deb
+
+Package: com.thecomputerwhisperer.eztweaklist
+Name: EZTweakList
+Depends: firmware (>=9.0), mobilesubstrate, dpkg, cydia
+Architecture: iphoneos-arm
+Description: Easily export and share your tweak list.
+Depiction: https://legitcomputerwhisperer.github.io/depic/EZTweakList/index.html
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Section: Addons
+Dev: TheComputerWhisperer
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
+Version: 1.0.1-1
+Installed-Size: 140
+Size: 17286
+MD5sum: 2e8685907f37faf8d9bc86bed3614be3
+Filename: ./debs/eztweaklist_1.0.1-1.deb
+
+Package: com.creaturecoding.fastdel
+Name: FastDel
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: disable the annoying delete word function and enables rapid character deletion instantly.
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.fastdel/index.html
+Author: CreatureSurvive <dbuehre@me.com>
+Section: Tweaks
+Version: 0.3
+Installed-Size: 440
+Size: 42790
+MD5sum: c13b9cdaed963bbd3d798c50b27b1acd
+Filename: ./debs/fastdel_0.3.deb
+
+Package: com.cpdigitaldarkroom.fastunlockx
+Name: FastUnlockX
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Faster unlock for iPhone X
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Section: Tweaks
+Tag: compatible_min::ios10, compatible_max::ios11.4, purpose::extension
+Version: 1.4
+Installed-Size: 260
+Size: 19558
+MD5sum: 3db3fcacf6568e5316be5c344d60fcff
+Filename: ./debs/fastunlockx_1.4.deb
+
+Package: com.julioverne.fiona
+Name: Fiona
+Author: julioverne
+Version: 0.1
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Keep WiFi Always Connected
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/FionaSettings.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.fiona
+Size: 48978
+MD5sum: 227ba49bb8c4d103291edd7b0cd6bdd6
+Filename: ./debs/fiona_0.1.deb
+
+Package: me.gmoran.fiveicondockxi
+Name: FiveIconDockXI
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: Five icon dock for iOS 11.
+Maintainer: Guillermo Moran
+Author: Guillermo Moran
+Section: Tweaks
+Version: 0.0.1-20
+Installed-Size: 120
+Size: 2560
+MD5sum: 44167107191191eb1432781917787540
+Filename: ./debs/fiveicondockxi_0.0.1-20.deb
+
+Package: com.julioverne.flipconvert
+Name: FlipConvert
+Author: julioverne
+Version: 0.0~beta5
+Depends: preferenceloader, mobilesubstrate, com.opa334.ccsupport, com.a3tweaks.flipswitch, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: Port Flipswitch Toggles With CCSupport
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Tweaks
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.flipconvert
+Size: 12096
+MD5sum: 693022ef5f547b74310d91b4c5493c5f
+Filename: ./debs/flipconvert_0.0_beta5.deb
+
+Package: com.a3tweaks.flipswitch
+Name: Flipswitch
+Depends: mobilesubstrate (>= 0.9.5001), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0)
+Conflicts: com.rpetrich.donotdisturbtoggle (<= 1.0-1), com.jerryen.rotationlockflipswitch
+Replaces: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Architecture: iphoneos-arm
+Description: Centralized toggle system for iOS
+Homepage: https://rpetri.ch/cydia/flipswitch/beta/
+Depiction: https://rpetri.ch/cydia/flipswitch/beta/
+Author: rpetrich <rpetrich+flipswitch@gmail.com>
+Maintainer: rpetrich & a3tweaks <rpetrich+flipswitch@gmail.com>
+Section: System
+Tag: purpose::extension, role::developer
+Icon: file:///Applications/Preferences.app/icon-table.png
+dev: flipswitch
+Version: 1.0.16~beta2
+Installed-Size: 2248
+Size: 273784
+MD5sum: 1ed438e014907eb486ce0d6c8bd31f1c
+Filename: ./debs/flipswitch_1.0.16~beta2.deb
+
+Package: com.thecomputerwhisperer.foldercloserxi
+Name: FolderCloserXI
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Automatically close folders after launching apps.
+Depiction: https://legitcomputerwhisperer.github.io/depic/FolderCloserXI/index.html
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Section: Tweaks
+dev: TheComputerWhisperer
+Tag: purpose::extension, compatible::ios11, compatible::ios10, compatible::ios9, compatible::ios8
+Icon: file:///Library/PreferenceLoader/Preferences/FolderCloserXI@2x.png
+Version: 1.0.2-1
+Installed-Size: 188
+Size: 20804
+MD5sum: 1cb89204a508905d2920f7b04f94e8c3
+Filename: ./debs/foldercloserxi_1.0.2-1.deb
+
+Package: com.julioverne.goodwifi
+Name: GoodWiFi
+Author: julioverne
+Version: 0.0~beta4
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Better WiFi Preferences
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.goodwifi
+Size: 54976
+MD5sum: 3866bac5a02349a472a818f7180e28ca
+Filename: ./debs/goodwifi_0.0_beta4.deb
+
+Package: com.julioverne.gravity
+Name: Gravity
+Author: julioverne <julioverne@me.com>
+Version: 0.5
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Graviboard alternative
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/Gravity.bundle/icon@2x.png
+Maintainer: Julio
+Section: Tweaks
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.gravity
+Size: 148142
+MD5sum: 71c8ea584147eabe2ee3803b95aea6fa
+Filename: ./debs/gravity_0.5.deb
+
+Package: com.exile90.icleanerpro
+Name: iCleaner Pro
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Version: 7.7.0
+Architecture: iphoneos-arm
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Section: Utilities
+Depends: firmware (>= 4.0), apt7, findutils, shell-cmds
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Size: 4625528
+MD5sum: 717f23162f6c1e755b2eb9dfe3c848f5
+Filename: ./debs/iCleanerPro_7.7.0.deb
+
+Package: libactivator
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~beta2), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0)
+Name: Activator
+Priority: optional
+Architecture: iphoneos-arm
+Description: Centralized gestures, button and shortcut management for iOS
+Homepage: https://rpetri.ch/cydia/activator/beta/
+Depiction: https://rpetri.ch/cydia/activator/beta/
+Maintainer: Ryan Petrich <rpetrich+activator@gmail.com>
+Author: Ryan Petrich <rpetrich+activator@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Section: System
+dev: rpetrich
+Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
+Version: 1.9.13~beta2
+Installed-Size: 4712
+Size: 767372
+MD5sum: c16901611d2ac95ed895e196d1bf710b
+Filename: ./debs/libactivator_1.9.13_beta2.deb
+
+Package: com.creaturecoding.libcspreferences
+Depends: mobilesubstrate, firmware (>=9.0), preferenceloader
+Name: libCSPreferences
+Version: 0.9.9.9
+Architecture: iphoneos-arm
+Description: An awesome Preference Library!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcspreferencesDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcspreferencesDp
+Installed-Size: 1724
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: CreatureSurvive <support@creaturecoding.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Development
+dev: creaturecoding
+Tag: purpose::extension, cydia::obsolete, compatible::ios10
+Size: 266950
+MD5sum: aa7b8d9d4efbfd983501853ee333a163
+Filename: ./debs/libcspreferences_0.9.9.9.deb
+
+Package: com.ryleyangus.libertylite
+Name: Liberty Lite
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty
+Architecture: iphoneos-arm
+Description: A (lite) general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported, so certain apps (PayPal, HSBC HK) will still be problematic.
+Maintainer: Ryley Angus
+Author: Ryley Angus
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Version: 0.2.10
+Installed-Size: 476
+Size: 46610
+MD5sum: de8005d35c2204becf725c327f68e1e5
+Filename: ./debs/libertylite_0.2.10.deb
+
+Package: net.angelxwind.mikoto
+Name: mikoto
+Description: Comprehensive iOS System/App Store App customisation suite
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader (>= 2.2.0-1), net.angelxwind.karenprefs (>= 1.4), net.angelxwind.karenlocalizer
+Replaces: 
+Architecture: iphoneos-arm
+Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Homepage: https://cydia.angelxwind.net/
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.mikoto
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Icon: file:///Library/KarenRepoIcons/net.angelxwind.mikoto.png
+Conflicts: com.xcxiao.simplelsios10
+Version: 4.0.3
+Installed-Size: 15548
+Size: 11582804
+MD5sum: e1f49254a62ed949fd6d7d44c0b01043
+Filename: ./debs/mikoto.deb
+
+Package: com.idevicehacked.miscsettings
+Name: MiscSettings
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Description: So far has 46+ Miscellaneous toggles!
+Maintainer: Lucifers Circle <luciferscircle@gmail.com>
+Author: Lucifers Circle <luciferscircle@gmail.com>
+Section: Tweaks
+Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.miscsettings
+Version: 2.0.8
+Installed-Size: 548
+Size: 161760
+MD5sum: 046650739f08af2deafaa69bdca83ea1
+Filename: ./debs/miscsettings_2.0.8.deb
+
+Package: net.tateu.moveable9
+Name: Moveable9
+Depends: firmware (>=9.0), mobilesubstrate, preferenceloader
+Conflicts: net.tateu.moveable
+Architecture: iphoneos-arm
+Description: Arrange statusbar icons.
+Maintainer: Josh Harris (tateu) <tateu@tateu.net>
+Author: Josh Harris (tateu) <tateu@tateu.net>
+Depiction: http://www.tateu.net/repo/html/?p=moveable9
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/Moveable9.bundle/Moveable9.png
+Version: 1.0.0~beta29-26
+Installed-Size: 979
+Size: 280192
+MD5sum: 4e38c34989ca738aeca5281c58e36d15
+Filename: ./debs/moveable9_1.0.0_beta29-26.deb
+
+Package: ws.hbang.newterm2
+Name: NewTerm 2 (iOS 7 – 11)
+Depends: firmware (>= 7.0), com.modmyi.libswift4 (>= 4.0.3-3), ws.hbang.common (>= 1.11.2), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm
+Replaces: ws.hbang.newterm
+Architecture: iphoneos-arm
+Description: A powerful terminal app for iOS
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Terminal Support
+Icon: file:///Applications/NewTerm.app/Icon-Small@2x.png
+Depiction: https://cydia.hbang.ws/package/ws.hbang.newterm2/
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+dev: hbang
+Version: 2.0
+Installed-Size: 2192
+Size: 739528
+MD5sum: 07ecb5140e97da96e5ff72bdbdfc7949
+Filename: ./debs/newterm2_2.0.deb
+
+Package: com.shade.nougat
+Name: Nougat
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
+Architecture: iphoneos-arm
+Description: Android NC for iOS
+Icon: file:///Library/PreferenceBundles/Nougat.bundle/icon@2x.png
+Depiction: http://shade-zepheri.github.io/depic/index.html?p=com.shade.nougat
+Maintainer: Shade Zepheri <ziroalpha@gmail.com>
+Author: Shade Zepheri <ziroalpha@gmail.com>
+Section: Tweaks
+Version: 0.5.2
+Installed-Size: 1116
+Size: 616214
+MD5sum: c5376274c3c11b1d57a3c07387dfdb09
+Filename: ./debs/nougat_0.5.2.deb
+
+Package: com.julioverne.ntspeed
+Architecture: iphoneos-arm
+Version: 0.2~beta6
+Section: Tweaks
+Maintainer: Julio
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
+Homepage: http://twitter.com/ijulioverne
+Description: See Active Traffic Network Speed
+Name: NtSpeed
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/NtSpeedSettings.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ntspeed
+Size: 45492
+MD5sum: 7aa5a2b62407a9f73e58e9fd29d1fe45
+Filename: ./debs/ntspeed_0.2_beta6.deb
+
+Package: ch.mdaus.palette
+Name: Palette
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: Color notifications based off of icon color
+Maintainer: Maxwell Dausch <max.dausch@gmail.com>
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Section: Tweaks
+Depiction: http://mdaus.ch/repo/depictions/?p=ch.mdaus.palette
+Version: 1.0
+Installed-Size: 736
+Size: 407808
+MD5sum: 1a0f179386ca7b6ae4640942c2409280
+Filename: ./debs/palette_1.0.deb
+
+Package: com.jeffrey.pikabulite
+Name: Pikabu Lite
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Minimalistic volume hud on the notch.
+Maintainer: Jeffrey Chan
+Author: Jeffrey Chan <pikabu.jeffrey.chan@gmail.com>
+Section: Tweaks
+Size: 230526
+MD5sum: 3e5582746aca1bd94bcab95aa4314d43
+Filename: ./debs/pikabulite_1.1.0.deb
+
+Package: preferenceloader
+Name: PreferenceLoader
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: load preferences in style
+Maintainer: Dustin Howett <cydia.pl@relay.howett.net>
+Author: Dustin Howett <cydia.pl@relay.howett.net>
+Section: System
+dev: dustinhowett
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Tag: role::hacker, purpose::library
+Version: 2.2.4~alpha1
+Installed-Size: 388
+Size: 49862
+MD5sum: eb8cd7a434e9ab019ab775d19442eccd
+Filename: ./debs/preferenceloader_2.2.4_alpha1.deb
+
+Package: net.angelxwind.preferenceorganizer2
+Name: PreferenceOrganizer 2
+Architecture: iphoneos-arm
+Description: Organises your Preferences app into several configurable categories for ease of navigation.
+Homepage: https://cydia.angelxwind.net/
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.preferenceorganizer2
+Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader (>= 2.2.3), firmware (>= 6.0), net.angelxwind.karenprefs (>= 1.3), net.angelxwind.karenlocalizer
+Conflicts: com.phillipt.noappsettings, jp.r-plus.cloaky, me.qusic.preferenceorganizer, com.sull.preferenceorganizer, com.sull.preferenceorganizer2, com.sull.preferenceorganizer7
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Replaces: org.ilendsoft.preferenceorganizer, com.eliz.preferenceorganizer7
+Icon: file:///Library/KarenRepoIcons/net.angelxwind.preferenceorganizer2.png
+Version: 4.0.5
+Installed-Size: 1872
+Size: 1377484
+MD5sum: cb584a2d75048730a1f0455121075f4f
+Filename: ./debs/preferenceorganizer2.deb
+
+Package: me.alfhaily.rocket
+Name: Rocket for Instagram
+Version: 3.0.16
+Description: Save posts and view stories anonymously and do much more
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap, me.alfhaily.rocket.lib (>= 1.0.1)
+Priority: optional
+Architecture: iphoneos-arm
+Author: Majd Alfhaily
+Depiction: http://apt.alfhaily.me/depictions/rocket
+Icon: file:///Library/Application Support/Rocket/Rocket.bundle/AppIcon.png
+Maintainer: Majd Alfhaily <freemanrepo@me.com>
+Size: 2427380
+MD5sum: c95896b9e7ef51b485629a2a8e5c1353
+Filename: ./debs/rocket_3.0.16.deb
+
+Package: applebetas.ios.tweak.sleekquicktype
+Name: SleekQuickType
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: Make iOS 11 QuickType look like that of iOS 12's.
+Maintainer: AppleBetas
+Author: AppleBetas
+Section: Tweaks
+Version: 1.0.1-1
+Installed-Size: 72
+Size: 6440
+MD5sum: 6583d1d2dc290401dba259d91aa5d4b8
+Filename: ./debs/sleekquicktype_1.0.1-1.deb
+
+Package: com.subdiox.storeswitcher2
+Name: StoreSwitcher 2
+Depends: firmware (>= 11), mobilesubstrate
+Architecture: iphoneos-arm
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Maintainer: subdiox
+Author: subdiox
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 84
+Size: 10720
+MD5sum: e06d17dbadcb84dd88a934c4f60a5d02
+Filename: ./debs/storeswitcher2_1.0.1.deb
+
+Package: applebetas.ios.tweak.time11
+Name: TimeXI
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: Make the time slightly bolder, and somehow drastically more appealing.
+Maintainer: AppleBetas
+Author: AppleBetas
+Section: Tweaks
+Version: 1.0
+Installed-Size: 72
+Size: 2704
+MD5sum: 19919c22ae8a438e2f5252e0462d8eda
+Filename: ./debs/tweak.time11_1.0.deb
+
+Package: applebetas.ios.tweak.watchreboot
+Name: WatchReboot
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Quickly reboot or ping your Apple Watch from the watch app.
+Maintainer: AppleBetas
+Author: AppleBetas
+Section: Tweaks
+Version: 1.0.0-38
+Installed-Size: 120
+Size: 7754
+MD5sum: eaf5531e2b485093759d9750e37a0315
+Filename: ./debs/watchreboot_1.0.0-38.deb
+
+Package: com.julioverne.wishdia
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Homepage: http://twitter.com/ijulioverne
+Description: Wish List For Cydia
+Name: WishDia
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.wishdia
+Size: 19078
+MD5sum: 5e3803320f0b4f65c99c4d491157a763
+Filename: ./debs/wishdia_0.0_beta1.deb
