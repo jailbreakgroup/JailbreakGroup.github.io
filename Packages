@@ -801,7 +801,7 @@ Filename: ./debs/disablertl_1.1-1.deb
 Package: co.dynastic.tsssaver
 Name: TSS Saver
 Architecture: iphoneos-arm
-Description: بضغطة زر احفظ ملف الشاش على موقع TSSsaver.1conan.com
+Description: بضغطة زر احفظ ملف الشاش
 Depiction: https://jailbreakgroup.github.io/depictions/?p=TSSsaver
 Maintainer: Jamie Bishop <jamie@dynastic.co>
 Author: Jamie Bishop <jamie@dynastic.co>
