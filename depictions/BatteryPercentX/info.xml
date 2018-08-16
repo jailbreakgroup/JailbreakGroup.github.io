@@ -16,6 +16,12 @@
 		<description>إستبدال ايقونة البطارية بالنسبة للأييفون أكس
 		</description>
 	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image>1.png</image>
+		</screenshot>		
+	</screenshots>
 	<changelog>
 		<change>إصلاح مشكلة التعليق عند تشغيل بعض التطبيقات</change>
 	</changelog>
