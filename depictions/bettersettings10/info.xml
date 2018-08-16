@@ -6,6 +6,7 @@
 		<firmware>
 			<miniOS>10.0</miniOS>
 			<maxiOS>10.3.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
