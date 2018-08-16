@@ -9,18 +9,18 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package> firmware (>= 6.0), mobilesubstrate, preferenceloader </package>
+		<package> iOS>=6.0, MobileSubstrate, PreferenceLoader</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>عرض سرعة الانترنت بجهازك على الشاشة دائماً</description>
+		<description>عرض إستهلاك الانترنت بجهازك على الشاشة دائمًا</description>
 		</description></description>
 
 		</descriptionlist>
 
 	<screenshots>
 		<screenshot>
-			<description>صوره</description>			
+			<description></description>			
 			<image>1.png</image>
 		</screenshot>		
 	</screenshots>

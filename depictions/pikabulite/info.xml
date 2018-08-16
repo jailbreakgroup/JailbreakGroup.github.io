@@ -13,9 +13,11 @@
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>تغيير شكل واجة تغيير الصوت لشكل انظف</description>
-		<description>تدعم جميع الاجهزة بما فيها الاكس</description>
-		<description>للأجهزة ما قبل الاكس بإمكانك تغيير مكان الواجهة بالضغط المطول عليها وسحبها  لتغيير مكانها</description>
+		<description><![CDATA[
+		تغيير شكل واجة تغيير الصوت لشكل انظف <br/> 
+		تدعم جميع الاجهزة مع الـiPhoneX<br/> 
+		<font color="green">للأجهزة ما قبل الـ iPhone X بإمكانك تغيير مكان الواجهة بالضغط المطول عليها وسحبها  لتغيير مكانها</font>
+		]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>

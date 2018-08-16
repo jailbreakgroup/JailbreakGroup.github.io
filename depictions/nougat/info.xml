@@ -5,11 +5,11 @@
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
-			<maxiOS>11.3.1</maxiOS>
+			<maxiOS>11.4</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>MobileSubstrate, PreferenceLoader, Cephei, TechSupport Framework</package>
+		<package>MobileSubstrate, PreferenceLoader, Cephei, FlipSwitch</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
