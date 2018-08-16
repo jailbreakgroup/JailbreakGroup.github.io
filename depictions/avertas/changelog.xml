@@ -1,15 +1,11 @@
 <changelog>
 	<changes>
-		<version>2.0.8</version>
-		<change>إضافة الدعم للأداة Simple Power Down Menu</change>
+		<version>8-1</version>
+		<change>أضافة دعم إصدار 11</change>
 	</changes>
 	<changes>
-		<version>2.0.7</version>
-		<change>إزالة بعض الخيارات المسببة للمشاكل</change>
-	</changes>
-	<changes>
-		<version>2.0.7</version>
-		<change>أضافة المزيد من الخيارات</change>
+		<version>7-1</version>
+		<change>أضافة دعم إصدار 9 و 10</change>
 	</changes>
 </changelog>
 
