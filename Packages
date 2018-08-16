@@ -63,7 +63,7 @@ Section: Tweaks
 Installed-Size: 196
 Version: 7-1
 Architecture: iphoneos-arm
-Description: Quick Switcher and Hot Corners
+Description: للتنقل بين التطبيقات بالخلفية بطريقة جميلة
 Depiction: https://jailbreakgroup.github.io/depictions/?p=avertas
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=avertasDp
 Sponsor: thebigboss.org <http://thebigboss.org>
@@ -78,7 +78,7 @@ Package: com.spark.batterypercentx
 Name: BatteryPercentX [Public]
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: Replaces the battery icon with percentage on the iPhone X
+Description: إستبدال ايقونة البطارية بالنسبة المئوية لiPhone X
 Depiction: https://jailbreakgroup.github.io/depictions/?p=BatteryPercentX
 Maintainer: Spark
 Author: Spark
@@ -93,7 +93,7 @@ Package: com.midnightchips.bettersettings10
 Name: BetterSettings10
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker, firmware(<<11)
 Architecture: iphoneos-arm
-Description: Settings your way
+Description: تغيير شكل الإعدادات من خلفيات والوان
 Maintainer: midnightchips
 Author: midnightchips
 Depiction: https://jailbreakgroup.github.io/depictions/?p=bettersettings10
@@ -111,7 +111,7 @@ Depends: firmware (>= 8.0), mobilesubstrate, libactivator (>= 1.8.3), com.rpetri
 Conflicts: com.tapthaker.bigshotjb
 Version: 0.0.2-2
 Architecture: iphoneos-arm
-Description: take screenshots of full vertical scrollable area
+Description: أخذ صورة كاملة للشاشة
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bigshotjbDp
 Depiction: https://jailbreakgroup.github.io/depictions/?p=bigshotjb11
 Sponsor: thebigboss.org <http://thebigboss.org>
@@ -131,7 +131,7 @@ Author: julioverne
 Version: 0.0~beta5
 Depends: mobilesubstrate, cydia
 Architecture: iphoneos-arm
-Description: Redesigned Cell Cydia
+Description: تغيير تصميم السيديا
 Homepage: http://twitter.com/ijulioverne
 Maintainer: Julio
 Section: Tweaks
@@ -144,7 +144,7 @@ Package: com.creaturecoding.copyvideourl
 Name: CopyVideoURL
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: Copy URL of currently playing video
+Description: نسخ رابط الفيديو من المشغل
 Depiction: https://jailbreakgroup.github.io/depictions/?p=copyvideourl
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Author: CreatureSurvive <support@creaturecoding.com>
@@ -157,7 +157,7 @@ Filename: ./debs/copyvideourl_0.1.0.deb
 
 Package: com.creaturecoding.covert
 Name: covert
-Description: Hide & Mute conversations in Messages app.
+Description: كتم و إخفاء الرسائل 
 Section: Tweaks
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: 
@@ -180,7 +180,7 @@ Package: com.laughingquoll.cowbell
 Name: Cowbell
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: Make the low power module great again.
+Description: إضافة نسبة البطارية لأيقونة موفر الطاقة في مركز التحكم
 Maintainer: LaughingQuoll
 Author: LaughingQuoll
 Depiction: https://jailbreakgroup.github.io/depictions/?p=cowbell
@@ -196,7 +196,7 @@ Name: DetailedPowerUsage
 Depends: firmware (>= 9.0), mobilesubstrate
 Conflicts: org.thebigboss.detailedbatteryusage
 Architecture: iphoneos-arm
-Description: Unlock Apple's internal battery data & stats on iOS 9.x - 11.1.2.
+Description: أظهار معلومات البطارية وإستهلاكها بشكل تفصيلي
 Depiction: https://jailbreakgroup.github.io/depictions/?p=detailedpowerusage
 Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -217,7 +217,7 @@ Replaces: us.nakedproductions.dylibdisabler3
 Conflicts: us.nakedproductions.dylibdisabler, us.nakedproductions.dylibdisabler2
 Priority: optional
 Section: Utilities
-Description: DylibDisabler removes and disables dylibs for mobile substrate tweaks.
+Description: إالغاء الاداوت - تساعد في حل المشاكل 
 Version: 3.0-0
 Maintainer: ichitaso
 Author: EvilPenguin / ichitaso
@@ -231,7 +231,7 @@ Package: com.spark.easyswitcherx
 Name: EasySwitcherX [Public]
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Description: Swipe up on apps in the switcher to kill them, without having to press and hold (iPhone X - how it should have been)
+Description: الخروج من التطبيقات بالخلفية بالسحب لاعلى دون الحاجة للضغط المطول لـiPhone X
 Maintainer: Spark
 Author: Spark
 Section: Tweaks
@@ -246,7 +246,7 @@ Package: com.creaturecodiing.ebullience
 Name: ebullience
 Depends: mobilesubstrate, com.creaturecoding.libcspreferences
 Architecture: iphoneos-arm
-Description: Animated UITableViews
+Description: إضافة مؤثرات عند النزول والصعود بالصفحة
 Depiction: https://jailbreakgroup.github.io/depictions/?p=ebullience
 Maintainer: CreatureSurvive
 Author: CreatureSurvive
@@ -265,7 +265,7 @@ Pre-Depends: ldid, unzip, coreutils, zip, sed
 Conflicts: com.julioverne.ext3nder
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: Cydia Extender Installer With Extra Features
+Description: تجديد الشهادات المجانية كل 7 ايام
 Homepage: http://twitter.com/ijulioverne
 Maintainer: Julio
 Section: Utilities
@@ -278,7 +278,7 @@ Package: com.thecomputerwhisperer.eztweaklist
 Name: EZTweakList
 Depends: firmware (>=9.0), mobilesubstrate, dpkg, cydia
 Architecture: iphoneos-arm
-Description: Easily export and share your tweak list.
+Description: مشاركة لستة الأدوات المثبتة
 Depiction: https://jailbreakgroup.github.io/depictions/?p=eztweaklist
 Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -295,7 +295,7 @@ Package: com.creaturecoding.fastdel
 Name: FastDel
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: disable the annoying delete word function and enables rapid character deletion instantly.
+Description: تسريع عملية حذف الكلام
 Maintainer: CreatureSurvive <dbuehre@me.com>
 Depiction: https://jailbreakgroup.github.io/depictions/?p=fastdel
 Author: CreatureSurvive <dbuehre@me.com>
@@ -310,7 +310,7 @@ Package: com.cpdigitaldarkroom.fastunlockx
 Name: FastUnlockX
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: Faster unlock for iPhone X
+Description: تسريع الفيس اي دي لiPhone X
 Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
 Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
 Depiction: https://jailbreakgroup.github.io/depictions/?p=fastunlockx
@@ -328,7 +328,7 @@ Author: julioverne
 Version: 0.1
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Description: Keep WiFi Always Connected
+Description: جعل شكبة الواي فاي متصلة دائمًا
 Homepage: http://twitter.com/ijulioverne
 Maintainer: Julio
 Section: Tweaks
@@ -342,7 +342,7 @@ Package: me.gmoran.fiveicondockxi
 Name: FiveIconDockXI
 Depends: mobilesubstrate, firmware (>= 11.0)
 Architecture: iphoneos-arm
-Description: Five icon dock for iOS 11.
+Description: إضافة ايقونة خامسة على الدوك
 Maintainer: Guillermo Moran
 Author: Guillermo Moran
 Depiction: https://jailbreakgroup.github.io/depictions/?p=fiveicondockxi
@@ -359,7 +359,7 @@ Author: julioverne
 Version: 0.0~beta5
 Depends: preferenceloader, mobilesubstrate, com.opa334.ccsupport, com.a3tweaks.flipswitch, firmware (>= 11.0)
 Architecture: iphoneos-arm
-Description: Port Flipswitch Toggles With CCSupport
+Description: أضافة دعم أداة FlipSwitch إلى أداة CCSupport
 Homepage: http://twitter.com/ijulioverne
 Maintainer: Julio
 Section: Tweaks
@@ -375,7 +375,7 @@ Conflicts: com.rpetrich.donotdisturbtoggle (<= 1.0-1), com.jerryen.rotationlockf
 Replaces: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
 Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
 Architecture: iphoneos-arm
-Description: Centralized toggle system for iOS
+Description: إضافة العديد من الأزرار للنظام
 Homepage: https://rpetri.ch/cydia/flipswitch/beta/
 Depiction: https://jailbreakgroup.github.io/depictions/?p=flipswitch
 Author: rpetrich <rpetrich+flipswitch@gmail.com>
@@ -394,7 +394,7 @@ Package: com.thecomputerwhisperer.foldercloserxi
 Name: FolderCloserXI
 Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Description: Automatically close folders after launching apps.
+Description: إغلاق المجلد بشكل تلقائي بعد الخروج من التطبيق
 Depiction: https://jailbreakgroup.github.io/depictions/?p=foldercloserxi
 Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -414,7 +414,7 @@ Author: julioverne
 Version: 0.0~beta4
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Description: Better WiFi Preferences
+Description: تقوية الواي فاي و إظهار تفاصيل الشبكات
 Homepage: http://twitter.com/ijulioverne
 Maintainer: Julio
 Section: Tweaks
@@ -430,7 +430,7 @@ Author: julioverne <julioverne@me.com>
 Version: 0.5
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Description: Graviboard alternative
+Description: تحرك الايقونات على حسب ميلان الهاتف
 Homepage: http://twitter.com/ijulioverne
 Icon: file:///Library/PreferenceBundles/Gravity.bundle/icon@2x.png
 Maintainer: Julio
@@ -442,7 +442,7 @@ Filename: ./debs/gravity_0.5.deb
 
 Package: com.exile90.icleanerpro
 Name: iCleaner Pro
-Description: The first real iOS system cleaner & optimizer
+Description: تنظيف وتحرير جهازك من مخلفات التصفح والملفات الزائدة
 Author: Ivano Bilenchi <support@ib-soft.net>
 Maintainer: Ivano Bilenchi <support@ib-soft.net>
 Version: 7.7.0
@@ -463,7 +463,7 @@ Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweak
 Name: Activator
 Priority: optional
 Architecture: iphoneos-arm
-Description: Centralized gestures, button and shortcut management for iOS
+Description: إختصارات هائلة ومهمة جدًا
 Homepage: https://rpetri.ch/cydia/activator/beta/
 Depiction: https://jailbreakgroup.github.io/depictions/?p=activator
 Maintainer: Ryan Petrich <rpetrich+activator@gmail.com>
@@ -485,7 +485,7 @@ Depends: mobilesubstrate, firmware (>=9.0), preferenceloader
 Name: libCSPreferences
 Version: 0.9.9.9
 Architecture: iphoneos-arm
-Description: An awesome Preference Library!
+Description: مكتبة مساعدة لبعض الاداوت
 Depiction: https://jailbreakgroup.github.io/depictions/?p=libcspreferences
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcspreferencesDp
 Installed-Size: 1724
@@ -504,7 +504,7 @@ Name: Liberty Lite
 Depends: mobilesubstrate, preferenceloader, applist
 Conflicts: com.ryleyangus.liberty
 Architecture: iphoneos-arm
-Description: A (lite) general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported, so certain apps (PayPal, HSBC HK) will still be problematic.
+Description: إخفاء الجلبريك عن التطبيقات
 Maintainer: Ryley Angus
 Author: Ryley Angus
 Section: Tweaks
@@ -518,7 +518,7 @@ Filename: ./debs/libertylite_0.2.10.deb
 
 Package: net.angelxwind.mikoto
 Name: mikoto
-Description: Comprehensive iOS System/App Store App customisation suite
+Description: العديد من الخيارات لتخصيص النظام
 Section: Tweaks
 Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader (>= 2.2.0-1), net.angelxwind.karenprefs (>= 1.4), net.angelxwind.karenlocalizer
 Replaces: 
@@ -539,7 +539,7 @@ Package: com.idevicehacked.miscsettings
 Name: MiscSettings
 Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
 Architecture: iphoneos-arm
-Description: So far has 46+ Miscellaneous toggles!
+Description: أكثر من 46 خيار لتعديل النظام
 Maintainer: Lucifers Circle <luciferscircle@gmail.com>
 Author: Lucifers Circle <luciferscircle@gmail.com>
 Section: Tweaks
@@ -555,7 +555,7 @@ Name: Moveable9
 Depends: firmware (>=9.0), mobilesubstrate, preferenceloader
 Conflicts: net.tateu.moveable
 Architecture: iphoneos-arm
-Description: Arrange statusbar icons.
+Description: إعادة ترتيب الايقونات على شريط الحالة
 Maintainer: Josh Harris (tateu) <tateu@tateu.net>
 Author: Josh Harris (tateu) <tateu@tateu.net>
 Depiction: https://jailbreakgroup.github.io/depictions/?p=moveable9
@@ -573,7 +573,7 @@ Depends: firmware (>= 7.0), com.modmyi.libswift4 (>= 4.0.3-3), ws.hbang.common (
 Conflicts: ws.hbang.newterm
 Replaces: ws.hbang.newterm
 Architecture: iphoneos-arm
-Description: A powerful terminal app for iOS
+Description: موجه أوامر - ترمنال
 Maintainer: HASHBANG Productions <support@hbang.ws>
 Author: HASHBANG Productions <support@hbang.ws>
 Section: Terminal Support
@@ -593,7 +593,7 @@ Package: com.shade.nougat
 Name: Nougat
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
 Architecture: iphoneos-arm
-Description: Android NC for iOS
+Description: تغيير شكل مركز التحكم وجعله مشابة الى نظام الاندرويد
 Icon: file:///Library/PreferenceBundles/Nougat.bundle/icon@2x.png
 Depiction: https://jailbreakgroup.github.io/depictions/?p=nougat
 Maintainer: Shade Zepheri <ziroalpha@gmail.com>
@@ -612,7 +612,7 @@ Section: Tweaks
 Maintainer: Julio
 Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
 Homepage: http://twitter.com/ijulioverne
-Description: See Active Traffic Network Speed
+Description: إظهار إستهلاك النت على الشاشة
 Name: NtSpeed
 Author: julioverne
 Icon: file:///Library/PreferenceBundles/NtSpeedSettings.bundle/icon@2x.png
@@ -625,7 +625,7 @@ Package: ch.mdaus.palette
 Name: Palette
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Description: Color notifications based off of icon color
+Description: تغيير لون الأشعارات حسب لون التطبيق
 Maintainer: Maxwell Dausch <max.dausch@gmail.com>
 Author: Maxwell Dausch <max.dausch@gmail.com>
 Section: Tweaks
@@ -641,7 +641,7 @@ Name: Pikabu Lite
 Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
 Version: 1.1.0
 Architecture: iphoneos-arm
-Description: Minimalistic volume hud on the notch.
+Description: تغيير شكل واجة تغيير الصوت لشكل انظف
 Maintainer: Jeffrey Chan
 Author: Jeffrey Chan <pikabu.jeffrey.chan@gmail.com>
 Depiction: https://jailbreakgroup.github.io/depictions/?p=pikabulite
@@ -654,7 +654,7 @@ Package: preferenceloader
 Name: PreferenceLoader
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: load preferences in style
+Description: إظهار اعدادات الأدوات 
 Maintainer: Dustin Howett <cydia.pl@relay.howett.net>
 Author: Dustin Howett <cydia.pl@relay.howett.net>
 Section: System
@@ -671,7 +671,7 @@ Filename: ./debs/preferenceloader_2.2.4_alpha1.deb
 Package: net.angelxwind.preferenceorganizer2
 Name: PreferenceOrganizer 2
 Architecture: iphoneos-arm
-Description: Organises your Preferences app into several configurable categories for ease of navigation.
+Description: ترتيب الاعداتا وتقسيمها الى اربع اقسام
 Homepage: https://cydia.angelxwind.net/
 Depiction: https://jailbreakgroup.github.io/depictions/?p=preferenceorganizer2
 Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
@@ -690,7 +690,7 @@ Filename: ./debs/preferenceorganizer2.deb
 Package: me.alfhaily.rocket
 Name: Rocket for Instagram
 Version: 3.0.16
-Description: Save posts and view stories anonymously and do much more
+Description: حفظ المقاطع من الانستقرام والمزيد من الأضافات
 Section: Tweaks
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap, me.alfhaily.rocket.lib (>= 1.0.1)
 Priority: optional
@@ -707,7 +707,7 @@ Package: applebetas.ios.tweak.sleekquicktype
 Name: SleekQuickType
 Depends: mobilesubstrate, firmware (>= 11.0)
 Architecture: iphoneos-arm
-Description: Make iOS 11 QuickType look like that of iOS 12's.
+Description: تغير شكل الاقتراحات اعلى الكيبورد مثل iOS 12
 Maintainer: AppleBetas
 Author: AppleBetas
 Section: Tweaks
@@ -722,7 +722,7 @@ Package: com.subdiox.storeswitcher2
 Name: StoreSwitcher 2
 Depends: firmware (>= 11), mobilesubstrate
 Architecture: iphoneos-arm
-Description: Adds a button to switch account in App Store account page on iOS 11+.
+Description: إضافة زر للتبديل بين حسابات الاب ستور
 Maintainer: subdiox
 Author: subdiox
 Section: Tweaks
@@ -736,7 +736,7 @@ Package: applebetas.ios.tweak.time11
 Name: TimeXI
 Depends: mobilesubstrate, firmware (>= 11.0)
 Architecture: iphoneos-arm
-Description: Make the time slightly bolder, and somehow drastically more appealing.
+Description: تعريض خط الساعة على قفل الشاشة
 Maintainer: AppleBetas
 Author: AppleBetas
 Section: Tweaks
@@ -751,7 +751,7 @@ Package: applebetas.ios.tweak.watchreboot
 Name: WatchReboot
 Depends: mobilesubstrate, firmware (>= 10.0)
 Architecture: iphoneos-arm
-Description: Quickly reboot or ping your Apple Watch from the watch app.
+Description: إرسال تنبية و إعادة تشغيل ساعة ابل
 Maintainer: AppleBetas
 Author: AppleBetas
 Depiction: https://jailbreakgroup.github.io/depictions/?p=watchreboot
@@ -769,7 +769,7 @@ Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
 Homepage: http://twitter.com/ijulioverne
-Description: Wish List For Cydia
+Description: قائمة الأمنيات للسيديا
 Name: WishDia
 Author: julioverne
 Depiction: https://jailbreakgroup.github.io/depictions/?p=wishdia
