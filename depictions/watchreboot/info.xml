@@ -1,5 +1,5 @@
 <package>
-	<id>applebetas.ios.tweak.watchreboot</id>
+	<id>watchreboot</id>
 	<name>أداة WatchReboot</name>
 	<version>1.0.0-38</version>
 	<compatibility>
