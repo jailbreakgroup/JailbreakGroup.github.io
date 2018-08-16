@@ -1,0 +1,18 @@
+<package>
+	<id>libertylite</id>
+	<name>Liberty Lite</name>
+	<version>0.2.10</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, PreferenceLoader, AppList</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>إخفاء الجلبريك عن التطبيقات</description>
+	</descriptionlist>
+</package>

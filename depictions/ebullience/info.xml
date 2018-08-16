@@ -1,0 +1,22 @@
+<package>
+	<id>ebullience</id>
+	<name>أداة ebullience</name>
+	<version>1.0.1b</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, libCSPreferences</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>إضافة انيميشن عند النزول والطلوع في الصفحة
+		</description>
+	</descriptionlist>
+	<changelog>
+		<change> libccspreferences حل مشكلة </change>
+	</changelog>
+</package>

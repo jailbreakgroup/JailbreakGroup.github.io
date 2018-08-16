@@ -1,0 +1,33 @@
+<package>
+	<id>pikabulite</id>
+	<name>أداة Pikabu Lite</name>
+	<version>1.1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, PreferenceLoader, iOS>=10</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>تغيير شكل واجة تغيير الصوت لشكل انظف</description>
+		<description>تدعم جميع الاجهزة بما فيها الاكس</description>
+		<description>للأجهزة ما قبل الاكس بإمكانك تغيير مكان الواجهة بالضغط المطول عليها وسحبها  لتغيير مكانها</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image>1.png</image>
+		</screenshot>	
+		<screenshot>
+			<description></description>			
+			<image>2.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>الاإصدار الأولي للأداة</change>
+	</changelog>
+</package>

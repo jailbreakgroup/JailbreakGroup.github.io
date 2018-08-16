@@ -1,0 +1,35 @@
+<package>
+	<id>dylibdisabler3</id>
+	<name>DylibDisabler 3</name>
+	<version>3.0-0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>11.3.1</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>iOS >=10</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>تطبيق لالغاء الاداوات , يساعدك في حل المشاكل</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>2.jpg</image>
+		</screenshot>
+        <screenshot>
+			<description></description>
+			<image>3.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>الإصدار الاولي للأداة</change>
+	</changelog>
+</package>

@@ -1,0 +1,32 @@
+<package>
+	<id>gravity</id>
+	<name>اداة Gravity</name>
+	<version>0.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, preferenceloader</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>ايقونات تتحرك حسب ميلان الهاتف
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>صوره</description>			
+			<image>1.png</image>
+		</screenshot>	
+<screenshot>
+			<description>صوره</description>			
+			<image>2.png</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>دعم اصدار 9.3.3</change>
+	</changelog>
+</package>

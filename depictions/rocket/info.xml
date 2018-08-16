@@ -1,0 +1,40 @@
+<package>
+	<id>rocket</id>
+	<name>اداة Rocket For instagram</name>
+	<version>3.0.16</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap, me.alfhaily.rocket.lib (>= 1.0.1)</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>حفظ المقاطع من انستقرام + اضافة العديد من المميزات للتطبيق
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>صوره</description>			
+			<image>1.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>صوره</description>		
+			<image>2.png</image>
+		</screenshot>
+		<screenshot>
+			<description>صوره</description>				
+			<image>3.png</image>
+		</screenshot>	
+<screenshot>
+			<description>صوره</description>				
+			<image>4.png</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>اصلاح خطاء عدم القدرة على الدخول الى اعدادات الأداة</change>
+	</changelog>
+</package>

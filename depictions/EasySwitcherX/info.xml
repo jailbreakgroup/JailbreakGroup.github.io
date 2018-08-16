@@ -1,0 +1,22 @@
+<package>
+	<id>EasySwitcherX</id>
+	<name>أداة EasySwitcherX</name>
+	<version>0.0.4-5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, iOS>=11.0, PreferenceLoader</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>سحب التطبيقات للأعلى دون الحاجة للضفط المطول لإقفال التطبيقات من الخلفية </description>
+        <description>تدعم الايفون أكس</description>
+	</descriptionlist>
+	<changelog>
+		<change>إصلاح مشكلة التعليق عند تشغيل بعض التطبيقات</change>
+	</changelog>
+</package>

@@ -1,0 +1,28 @@
+<package>
+	<id>detailedpowerusage</id>
+	<name>أداة DetailedPowerUsage</name>
+	<version>1.0.2-1b</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, iOS>=9.0</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>إظهار جميع تفاصيل البطارية و استهلاكها
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image>1.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>إصلاح مشكلة الرسم البياني</change>
+	</changelog>
+</package>
