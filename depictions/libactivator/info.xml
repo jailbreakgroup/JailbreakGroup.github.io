@@ -12,8 +12,8 @@
 		<package>MobileSubstrate, iOS>=7.0, PreferenceLoader, FlipSwitch, RocketBootstrap</package>
 	</dependencies>
 	<shortDescription></shortDescription>
-	<descriptionlist>اختصارات هائله ومهمه جداً .. مهم تثبيتها لاعتماد أدوات كثيره عليهاً<description>
-		</description>
+	<descriptionlist>
+	</description> اختصارات هائله ومهمه جداً .. مهم تثبيتها لاعتماد أدوات كثيره عليهاً <description>
 	</descriptionlist>
 	<changelog>
 		<change>إضافة دعم إصدار 11</change>
