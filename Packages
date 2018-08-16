@@ -776,3 +776,23 @@ Depiction: https://jailbreakgroup.github.io/depictions/?p=wishdia
 Size: 19078
 MD5sum: 5e3803320f0b4f65c99c4d491157a763
 Filename: ./debs/wishdia_0.0_beta1.deb
+
+Name: DisableRTL
+Package: com.imokhles.disablertl
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 9.0)
+Version: 1.1-1
+Architecture: iphoneos-arm
+Description: إصلاح محاذاة اللغة العربية
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disablertlDp
+Depiction: https://jailbreakgroup.github.io/depictions/?p=disablertl
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: iMokhles <mokhleshussien@aol.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios9
+Installed-Size: 198
+dev: imokhles
+Size: 3714
+MD5sum: 379f19a1be82b117e53e085f99dbb5d1
+Filename: ./debs/disablertl_1.1-1.deb
