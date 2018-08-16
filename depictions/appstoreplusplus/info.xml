@@ -9,16 +9,17 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>firmware (>= 11.0), mobilesubstrate</package>
+		<package>iOS>=11.0, MobileSubstrate</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>امكانية الرجوع لاصدارات اقدم - مفيده عند تحديث الشركة لبرنامج والتخلي عند بعض المميزات التي كانت تفيدك بالسابق - بهذه الاداه تستطيع الرجوع لاصدار التطبيق الذي تريده
-		</description>
+		</description>إمكانية الرجوع لإصدارات أقدم للتطبيقات</description>
+        </description>مفيدة عند تحديث الشركة لبرنامج والتخلي عن بعض المميزات التي كانت تفيدك بالسابق </description>
+        </description>فبهذه الأداة تستطيع الرجوع لإصدار التطبيق الذي تريده</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>صوره</description>			
+			<description></description>			
 			<image>1.png</image>
 		</screenshot>		
 	</screenshots>
