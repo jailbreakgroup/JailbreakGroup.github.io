@@ -13,15 +13,12 @@
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>امكانية تثبيت التطبيقات من خارج المتجر + مساعدة في تكرار التطبيقات والغير موقعه بشهادة مطورين
+		<description><![CDATA[
+		إمكانية تثبيت التطبيقات من خارج المتجر<br/> 
+		مساعدة في تكرار التطبيقات والغير موقعه بشهادة مطورين.
+		]]>
 		</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description>مركز التحكم</description>			
-			<image>1.png</image>
-		</screenshot>		
-	</screenshots>
 	<changelog>
 		<change>تعديلات لامكانية عمل الاداه على 11.4 بيتا 2,3,4</change>
 	</changelog>
