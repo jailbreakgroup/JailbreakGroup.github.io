@@ -9,32 +9,36 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker</package>
+		<package>iOS 10-10.3.3, MobileSubstrate, libCSColorPicker, libCSPreferences, libColorpicker, </package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>تغيير خلفية اعدادات الجهاز واضافة الوان حسب رغبتك
+		<description>تغيير خلفية إعدادات الجهاز وإضافة ألوان حسب رغبتك
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Pic..</description>			
+			<description></description>			
 			<image>1.png</image>
 		</screenshot>	
-
 	<screenshot>
-			<description>Pic..</description>			
+			<description></description>			
 			<image>2.png</image>
 		</screenshot>
-
 	<screenshot>
-			<description>Pic..</description>			
+			<description></description>			
 			<image>3.png</image>
 		</screenshot>
-
-		
+		<screenshot>
+			<description></description>			
+			<image>4.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>			
+			<image>5.png</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>اصدار اولي للاداه</change>
+		<change>إصدار أولي للأداة</change>
 	</changelog>
 </package>

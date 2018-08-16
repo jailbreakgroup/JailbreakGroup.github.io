@@ -1,10 +1,6 @@
 <changelog>
 	<changes>
-		<version>1.2.1-1</version>
-        <change>إصلاح مشكلة التعليق عند تشغيل بعض التطبيقات</change>
-	</changes>
-	<changes>
-		<version>1.1.0-100</version>
+		<version>0.0.1</version>
         <change>الإصدار الأولي للأداة</change>
 	</changes>
 </changelog>
