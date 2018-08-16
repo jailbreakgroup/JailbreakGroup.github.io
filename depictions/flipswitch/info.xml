@@ -15,6 +15,12 @@
 	<descriptionlist>
 		<description>إضافة العديد من الازرار للنظام</description>
 		</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image></image>
+		</screenshot>		
+	</screenshots>		
 	<changelog>
 		<change>إضافة الدعم للإصدار 11</change>
 	</changelog>

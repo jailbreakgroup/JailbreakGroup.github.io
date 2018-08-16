@@ -5,11 +5,11 @@
 	<compatibility>
 		<firmware>
 			<miniOS>4.0</miniOS>
-			<maxiOS>11.3.1</maxiOS>
+			<maxiOS>11.4</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>iOS (>= 4.0), apt7, findutils, shell-cmds</package>
+		<package>iOS>=4.0, APT 0.7 Strict, Find Utilities, shell-cmds</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
@@ -27,6 +27,6 @@
 		</screenshot>					
 	</screenshots>
 	<changelog>
-		<change>دعم كامل للاصدار 11.3.1 وجليبريك الكترا</change>
+		<change>دعم كامل لجليبريك الكترا</change>
 	</changelog>
 </package>

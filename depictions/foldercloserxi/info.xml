@@ -16,7 +16,13 @@
 		<description>في حال فتحت تطبيق موجود داخل مجلد وقفلته يرجعك للشاشة الرئيسية على طول بدون ما ترجع للمجلد
 		</description>
 	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image></image>
+		</screenshot>		
+	</screenshots>	
 	<changelog>
-		<change>الإصدار الأولي للأداة</change>
+		<change>إضافة الدعم للإصدارات 9 . 10 . 11</change>
 	</changelog>
 </package>

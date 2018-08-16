@@ -13,12 +13,20 @@
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>اداة بها الالاف من المميزات وجودها ضروري ولا غنى عنه
+		<description><![CDATA[
+		أداة بها الالاف من المميزات مثل <br/> 
+		*الغاء معاينة صورة الشاشة على إصدار 11<br/> 
+		*الغاء اعلانات اليوتيوب وتشغيل المقاطع بالخلفية<br/> 
+		*تغيير اسم الشبكة<br/> 
+        *اخفاء الاعلانات من تطبيق التويتر الرسمي<br/>
+		*تفعيل موفر الطاقة على الاجهزة على الإصدار 9 وما فوق<br/>
+		والمزيد تجده بإعدادات الأداة.
+		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>مركز التحكم</description>			
+			<description></description>			
 			<image>1.png</image>
 		</screenshot>		
 	</screenshots>
