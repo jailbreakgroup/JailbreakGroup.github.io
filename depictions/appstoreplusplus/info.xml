@@ -20,7 +20,11 @@
 		]]>
 		</description>
 	</descriptionlist>
-	<screenshots>		
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image>1.png</image>
+		</screenshot>		
 	</screenshots>
 	<changelog>
 		<change>إصلاح بعض الاخطاء</change>
