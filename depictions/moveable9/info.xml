@@ -9,42 +9,42 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package> Firmwareirmware (>=9.0), Mobilesubstrate, Preferenceloader</package>
+		<package> iOS >=9.0, MobileSubstrate, PreferenceLoader</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>اضافة ايقونات صغيره في الشريط العلوي لمعرفة البرنامج الي وصلك عليه اشعار
+		<description>التحكم بأماكن الايقونات على شريط الحالة
+		</description>
+		<description ><![CDATA[
+		<font color="red">لا تعمل على iPhone X  إلا بعد تثبيت أداة StatusBarNoX . </font>
+		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>صوره</description>			
+			<description></description>			
 			<image>1.png</image>
 		</screenshot>		
 		<screenshot>
-			<description>صوره</description>		
+			<description></description>		
 			<image>2.png</image>
 		</screenshot>
 		<screenshot>
-			<description>صوره</description>				
+			<description></description>				
 			<image>3.png</image>
 		</screenshot>
-
-<screenshot>
-			<description>صوره</description>				
+        <screenshot>
+			<description></description>				
 			<image>4.png</image>
 		</screenshot>	
-		
 		<screenshot>
-			<description>صوره</description>				
+			<description></description>				
 			<image>5.png</image>
-		</screenshot>	
-		
-		<screenshot>
-			<description>صوره</description>				
+		</screenshot>
+        <screenshot>		
+			<description></description>				
 			<image>6.png</image>
 		</screenshot>	
-		
 	</screenshots>
 	<changelog>
 		<change>اصلاح خلل في iOS 11 لايقونة الواي فاي والبلوتوث عند تجميعهم في مكان واحد مع ثيم مستخدم</change>
