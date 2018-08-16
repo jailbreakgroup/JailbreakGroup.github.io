@@ -1,7 +1,7 @@
 <changelog>
 	<changes>
 		<version>7.7.0</version>
-<<<<<<< HEAD
+
 		<change>دعم كامل للاصدار 11.3.1 وجليبريك الكترا</change>
 	</changes>
 	<changes>
@@ -13,7 +13,7 @@
 		<change>دعم لجليبريك H3lix و g0blin </change>
 		<change>اصلاح بعض الاخطاء </change>
 		<change>دعم اللغه الروسيه </change>
-=======
+
 		<change>إضافة دعم إصدار 11</change>
 	</changes>
 	<changes>
@@ -24,7 +24,7 @@
 		<version>7.6.3</version>
 		<change>إضافة دعم الاصدارات من 10.3 الى 10.3.3</change>
 		<change>إظهار السعة بمؤشر واحد للاصدارات ما بعد 10.3</change>
->>>>>>> 8008c6d37ee7a27ff3a2ab78e7ca488eec49f22d
+
 	</changes>
 </changelog>
 
