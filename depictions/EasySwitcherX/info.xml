@@ -11,11 +11,17 @@
 	<dependencies>
 		<package>MobileSubstrate, iOS>=11.0, PreferenceLoader</package>
 	</dependencies>
-	<shortDescription></shortDescription>
+	<shortDescription>سحب التطبيقات للأعلى دون الحاجة للضفط المطول لإقفال التطبيقات من الخلفية لل iPhone X </shortDescription>
 	<descriptionlist>
-		<description>سحب التطبيقات للأعلى دون الحاجة للضفط المطول لإقفال التطبيقات من الخلفية </description>
-        <description>تدعم الايفون أكس</description>
+		<description>
+		</description>
 	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image></image>
+		</screenshot>		
+	</screenshots>
 	<changelog>
 		<change>إصلاح مشكلة التعليق عند تشغيل بعض التطبيقات</change>
 	</changelog>

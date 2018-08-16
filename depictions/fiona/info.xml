@@ -9,17 +9,17 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate, preferenceloader</package>
+		<package>MobileSubstrate, PreferenceLoader</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>عند انقطاع الشبكه تلقائياً يفصل جهازك مع هذه الاداه ستظل متصل بالواي فاي
+		<description>عند إنقطاع الشبكة تلقائيًا يفصل جهازك مع هذه الأداة ستظل متصل بالواي فاي
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>صوره</description>			
-			<image>1.png</image>
+			<description></description>			
+			<image></image>
 		</screenshot>		
 	</screenshots>
 	<changelog>

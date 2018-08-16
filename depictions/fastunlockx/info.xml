@@ -16,6 +16,12 @@
 		<description>تسريع عملية فتح القفل عن طريق ال FaceID
 		</description>
 	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image></image>
+		</screenshot>		
+	</screenshots>
 	<changelog>
 		<change>الغاء تاثير الاداة عند تفعيل المنبة</change>
 	</changelog>

@@ -13,16 +13,18 @@
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>* تجديد تلقائي للتطبيقات</description>
-		</description>* تثبيت ملفات ابل الـ IPA من الجهاز مباشرة</description>
-		</description>* محرر ملفات</description>
-		</description>* مشاركة الواي فاي</description>
-		</description>* تحكم بالتطبيقات المثبته</description>
-        </description>* اعادة بناء الملفات وجعلها بصيغة IPA</description>
+		<description><![CDATA[
+		تجديد تلقائي للتطبيقات<br/>
+		تثبيت ملفات ابل الـ IPA من الجهاز مباشرة<br/> 
+		محرر ملفات<br/> 	
+		مشاركة الواي فاي<br/> 
+		تحكم بالتطبيقات المثبته<br/> 
+		 اعادة بناء الملفات وجعلها بصيغة IPA.
+		]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>صوره</description>			
+			<description></description>			
 			<image>1.png</image>
 		</screenshot>		
 	</screenshots>
