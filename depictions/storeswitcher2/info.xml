@@ -17,6 +17,12 @@
 		<description>التبديل بين حسابات الاب ستور 
 		</description>
 	</descriptionlist>
+		<screenshots>
+		<screenshot>
+			<description></description>			
+			<image>1.png</image>
+		</screenshot>				
+	</screenshots>
 	<changelog>
 		<change>أضافة دعم App Admin</change>
 	</changelog>
