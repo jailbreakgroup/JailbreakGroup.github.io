@@ -14,9 +14,9 @@
 	<shortDescription></shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-		للتنقل بين التطبيقات بالخلفية بطريقة جميلة<br/>
-		حالياً لاتدعم iPhone X<br/> 
-		بديلة لأداة Kaze على إصدار 11.
+		للتنقل بين التطبيقات بالخلفية بطريقة جميلة
+        حالياً لاتدعم iPhone X<br/> 
+		بديلة لأداة Kaze على إصدار 11
 		]]>
 		</description>
 	</descriptionlist>
@@ -28,7 +28,6 @@
 		<screenshot>
 			<description></description>			
 			<image>2.png</image>
-		</screenshot>
 		</screenshot>		
 	</screenshots>
 	<changelog>
