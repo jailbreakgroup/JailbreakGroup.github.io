@@ -5,7 +5,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
-			<maxiOS>11.3.1</maxiOS>
+			<maxiOS>11.4</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -18,17 +18,21 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>صوره</description>			
+			<description></description>			
 			<image>1.png</image>
 		</screenshot>		
 		<screenshot>
-			<description>صوره</description>		
+			<description></description>		
 			<image>2.png</image>
 		</screenshot>
 		<screenshot>
-			<description>صوره</description>				
+			<description></description>				
 			<image>3.png</image>
-		</screenshot>		
+		</screenshot>
+        <screenshot>
+			<description></description>				
+			<image>4.png</image>
+		</screenshot>			
 	</screenshots>
 	<changelog>
 		<change>اصداري اولـي</change>
