@@ -725,6 +725,7 @@ Architecture: iphoneos-arm
 Description: إضافة زر للتبديل بين حسابات الاب ستور
 Maintainer: subdiox
 Author: subdiox
+Depiction: https://jailbreakgroup.github.io/depictions/?p=storeswitcher2
 Section: Tweaks
 Version: 1.0.1
 Installed-Size: 84
