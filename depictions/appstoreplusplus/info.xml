@@ -20,12 +20,6 @@
 		]]>
 		</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description></description>			
-			<image>1.png</image>
-		</screenshot>		
-	</screenshots>
 	<changelog>
 		<change>إصلاح بعض الاخطاء</change>
 		<change>اصلاح خطا كان يتسبب في فتح التطبيق اثناء عملية الداون قريد</change>
