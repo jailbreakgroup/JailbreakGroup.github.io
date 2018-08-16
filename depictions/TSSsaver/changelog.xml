@@ -1,0 +1,18 @@
+<changelog>
+	<changes>
+		<version>1.2.0</version>
+	<change>دعم iOS 11</change>
+		<change>اضافة ايقونة جديده</change>
+		<change>تقليل حجم الملف</change>
+		<change>اضافة اخرى</change>
+	</changes>
+	
+	<changes>
+		<version>1.1.0</version>
+	<change>الاداة الان اصبحت مفتوحة المصدر تجدها هنا : https://github.com/nullpixel/tsssaver </change>
+		<change>اصلاح بعض الاخطاء والكراشات والخروج المفاجىء من التطبيق</change>
+		<change>الان اصبح التطبيق مستقر اكثر من اي وقت مضى</change>
+	</changes>
+	
+</changelog>
+

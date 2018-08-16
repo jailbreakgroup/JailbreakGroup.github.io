@@ -797,3 +797,18 @@ dev: imokhles
 Size: 3714
 MD5sum: 379f19a1be82b117e53e085f99dbb5d1
 Filename: ./debs/disablertl_1.1-1.deb
+
+Package: co.dynastic.tsssaver
+Name: TSS Saver
+Architecture: iphoneos-arm
+Description: بضغطة زر احفظ ملف الشاش على موقع TSSsaver.1conan.com
+Depiction: https://jailbreakgroup.github.io/depictions/?p=TSSsaver/
+Maintainer: Jamie Bishop <jamie@dynastic.co>
+Author: Jamie Bishop <jamie@dynastic.co>
+Section: Utilities
+Depends: com.modmyi.libswift4 (>= 4.0.3), firmware (>= 8.0)
+Version: 1.2.0
+Installed-Size: 444
+Size: 152032
+MD5sum: fe2e43efaa390e4b81f100175ad1cddb
+Filename: ./debs/TSSsaver.deb

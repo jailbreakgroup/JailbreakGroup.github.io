@@ -1,0 +1,31 @@
+<package>
+	<id>TSSsaver</id>
+	<name>اداة TSSsaver</name>
+	<version>1.2.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>4.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.Modmyi.Libswift4 (>= 4.0.3), iOS (>= 8.0) </package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>احفظ ملف الشاش الخاص بك بضغطة زر
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image>1.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>دعم iOS 11</change>
+		<change>اضافة ايقونة جديده</change>
+		<change>تقليل حجم الملف</change>
+		<change>اضافة اخرى</change>
+	</changelog>
+</package>
