@@ -1,0 +1,28 @@
+<package>
+	<id>filza64bit</id>
+	<name>اداة filza64bit</name>
+	<version>3.5.2-4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>zip, unzip, gzip, unrar, p7zip</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>متصفح لملفات النظام
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image></image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>دعم iOS 11</change>
+	</changelog>
+</package>
