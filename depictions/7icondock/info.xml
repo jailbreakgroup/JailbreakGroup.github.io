@@ -1,0 +1,22 @@
+<package>
+	<id>7icondock</id>
+	<name>أداة 7IconDock</name>
+	<version>0.1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>السماح بإضافة سبع ايقونات للدوك السفلي
+		</description>
+	</descriptionlist>
+	<changelog>
+		<change>إصدار أولي للأداة</change>
+	</changelog>
+</package>

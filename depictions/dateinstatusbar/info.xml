@@ -1,0 +1,31 @@
+<package>
+	<id>dateinstatusbar</id>
+	<name>اداة Date In Statusbar</name>
+	<version>0.9.1-2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, iOS>=8.0</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		إضافة التاريخ إلى شريط الحالة <br/> 
+		<font color="red">لا تدعم الـ iPhone X \</font>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image>1.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>إصلاح بعض الاخطاء</change>
+	</changelog>
+</package>

@@ -1,0 +1,25 @@
+<package>
+	<id>appdatamanager</id>
+	<name>اداة Apps Manager</name>
+	<version>1.4.0-45</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Zip</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		إدارة بيانات التطبيقات المثبتة<br/> 
+		من حفظ و إستعادة و حذف
+		]]>
+		</description>
+	</descriptionlist>
+	<changelog>
+		<change>دعم iOS 11</change>
+	</changelog>
+</package>
