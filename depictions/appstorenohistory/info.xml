@@ -1,0 +1,32 @@
+<package>
+	<id>appstorenohistory</id>
+	<name>اداة Appstore No History</name>
+	<version>0.0~beta8</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, PreferenceLoader, Applist</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		إخفاء التحديثات من الـApp Store<br/> 
+		إخفاء التطبيقات اللتي تم تحديثها مؤخرًا . <br/>
+		يرجى ضبط الأداة من الإعدادات
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image></image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>إضافة خاصية إخفاء التحديثات</change>
+	</changelog>
+</package>
