@@ -15,26 +15,6 @@ Size: 20685344
 MD5sum: d2ffdc66b5735c12a360225cb71e57e8
 Filename: ./debs/Flex3_3_Beta48.deb
 
-Package: com.cokepokes.appstoreplusplus
-Name: AppStore++
-Version: 0.6-2
-Description: إمكانية الرجوع لإصدارات أقدم للتطبيقات
-Section: Tweaks
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.appadmin
-Replaces: 
-Priority: optional
-Architecture: iphoneos-arm
-Author: CokePokes
-dev: 
-Homepage: 
-Depiction: https://jailbreakgroup.github.io/depictions/?p=appstoreplusplus
-Maintainer: CokePokes
-Icon: 
-Size: 776792
-MD5sum: 1fd2d89ef50917da14358fb8ab003435
-Filename: ./debs/appstoreplusplus_0.6-2.deb
-
 Package: net.angelxwind.appsyncunified
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 11.4.1)
@@ -812,3 +792,19 @@ Installed-Size: 444
 Size: 152032
 MD5sum: fe2e43efaa390e4b81f100175ad1cddb
 Filename: ./debs/TSSsaver.deb
+
+Package: com.tigisoftware.filza64bit
+Name: Filza File Manager 64-bit
+Depends: zip, unzip, gzip, unrar, p7zip, cy+cpu.arm64 
+Conflicts: com.tigisoftware.filza
+Version: 3.5.2-4
+Architecture: iphoneos-arm
+Description: متصفح لملفات النظام
+Depiction: https://jailbreakgroup.github.io/depictions/?p=filza64bit
+Maintainer: TIGI Software
+Author: TIGI Software
+Section: Utilities
+Installed-Size: 21012
+Size: 8536906
+MD5sum: 08a78e47770f3d22da04a8f81856cc2e
+Filename: ./debs/filza64bit_3.5.2-4.deb
