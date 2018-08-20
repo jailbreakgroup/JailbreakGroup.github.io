@@ -795,7 +795,7 @@ Filename: ./debs/TSSsaver.deb
 
 Package: com.tigisoftware.filza64bit
 Name: Filza File Manager 64-bit
-Depends: zip, unzip, gzip, unrar, p7zip, cy+cpu.arm64 
+Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza
 Version: 3.5.2-4
 Architecture: iphoneos-arm
