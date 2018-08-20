@@ -931,3 +931,24 @@ Installed-Size: 117
 Size: 2976
 MD5sum: 0c45c8de383e4096ccadf9ae70358df6
 Filename: ./debs/sixicondock_0.1.0-1debug.deb
+
+Name: PasscodeText
+Package: fr.coupaings.passcodetext
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Version: 0.1
+Architecture: iphoneos-arm
+Description: تغيير نص كلمة"أدخل كلمة المرور"
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=passcodetextDp
+Depiction: https://jailbreakgroup.github.io/depictions/?p=passcodetext
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Funsky (Coupaings) <funskydev@outlook.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios11
+Installed-Size: 299
+dev: funsky
+Icon: file:///Library/PreferenceBundles/PasscodeTextPreferences.bundle/icon@2x.png
+Size: 53150
+MD5sum: 6bf20dea4ed53e251503f28e0be254ce
+Filename: ./debs/passcodetext_0.1.deb

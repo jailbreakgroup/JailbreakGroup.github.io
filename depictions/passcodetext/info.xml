@@ -1,0 +1,36 @@
+<package>
+	<id>passcodetext</id>
+	<name>أداة PasscodeText</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, iOS>=11.0, PreferenceLoader</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		تغيير نص كلمة"أدخل كلمة المرور" أو إخفاءه<br/> 
+		يرجى ضبط الأداة من الإعدادات
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image>1.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>			
+			<image>2.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>أصدار أولي للأداة</change>
+	</changelog>
+</package>
