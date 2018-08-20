@@ -952,3 +952,18 @@ Icon: file:///Library/PreferenceBundles/PasscodeTextPreferences.bundle/icon@2x.p
 Size: 53150
 MD5sum: 6bf20dea4ed53e251503f28e0be254ce
 Filename: ./debs/passcodetext_0.1.deb
+
+Package: nl.d4ni.noiconlabels
+Version: 3.0.0-1
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), jp.ashikase.techsupport (>= 1.5.0.1)
+Architecture: iphoneos-arm
+Installed-Size: 336
+Description: إخفاء أسماء التطبيقات والمجلدات
+Depiction: https://jailbreakgroup.github.io/depictions/?p=noiconlabels
+Name: NoIconLabels
+Author: D4ni <mail@d4ni.nl>
+Size: 37402
+MD5sum: 3edc2dc06ff8d4947d86a5f7587bfd17
+Filename: ./debs/noiconlabels_3.0.0-1.deb
