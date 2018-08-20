@@ -799,7 +799,7 @@ Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza
 Version: 3.5.2-4
 Architecture: iphoneos-arm
-Description: متصفح لملفات النظام
+Description: متصفح لملفات النظام لأجهزة ال64bit
 Depiction: https://jailbreakgroup.github.io/depictions/?p=filza64bit
 Maintainer: TIGI Software
 Author: TIGI Software
@@ -808,3 +808,126 @@ Installed-Size: 21012
 Size: 8536906
 MD5sum: 08a78e47770f3d22da04a8f81856cc2e
 Filename: ./debs/filza64bit_3.5.2-4.deb
+
+Package: com.tigisoftware.filza
+Name: Filza File Manager
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Version: 3.5.2-4
+Architecture: iphoneos-arm
+Description: متصفح لملفات النظام
+Depiction: https://jailbreakgroup.github.io/depictions/?p=filza
+Maintainer: TIGI Software
+Author: TIGI Software
+Section: Utilities
+Installed-Size: 31796
+Size: 13324918
+MD5sum: 0261204dbeab22e52de2dac63a33133b
+Filename: ./debs/filza_3.5.2-4.deb
+
+Package: com.maxarmin.7icondock
+Name: 7IconDock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: إضافة ايقونة سابعة للدوك السفلي
+Depiction: https://jailbreakgroup.github.io/depictions/?p=7icondock
+Maintainer: maxarmin
+Author: maxarmin
+Section: Tweaks
+Version: 0.1.0
+Installed-Size: 117
+Size: 2542
+MD5sum: 1031145f080e99179d80533cc10d7148
+Filename: ./debs/7icondock_0.1.0.deb
+
+Package: com.ps.anywherepredict
+Name: AnywherePredict
+Depends: mobilesubstrate, firmware (>= 8.0)
+Architecture: iphoneos-arm
+Description: إظهار النص التنبؤي بكل مكان
+Author: PoomSmart
+Maintainer: PoomSmart
+Section: Tweaks
+Depiction: https://jailbreakgroup.github.io/depictions/?p=anywherepredict
+Version: 1.1.1
+Installed-Size: 136
+Size: 3350
+MD5sum: 0a7c47eaa795b2ea4a01c758d28f15d9
+Filename: ./debs/anywherepredict_1.1.1.deb
+
+Package: com.tigisoftware.appdatamanager
+Name: Apps Manager
+Depends: zip
+Architecture: iphoneos-arm
+Description: إدارة التطبيقات المثبتة
+Depiction: https://jailbreakgroup.github.io/depictions/?p=appdatamanager
+Maintainer: TIGI Software
+Author: TIGI Software
+Section: Utilities
+Version: 1.4.0-45
+Installed-Size: 8852
+Size: 3628386
+MD5sum: ad8b5483c7678f5a29091f575b205d03
+Filename: ./debs/appdatamanager_1.4.0-45.deb
+
+Package: com.julioverne.appstorenohistory
+Name: Appstore No History
+Author: julioverne
+Version: 0.0~beta8
+Depends: preferenceloader, mobilesubstrate, applist
+Architecture: iphoneos-arm
+Description: تنظيف صفحة التحديثات في الأب ستور
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/AppstoreNoHistorySettings.bundle/icon@2x.png
+Depiction: https://jailbreakgroup.github.io/depictions/?p=appstorenohistory
+Size: 30776
+MD5sum: 87a291c667022ea14f3afd9461459a57
+Filename: ./debs/appstorenohistory_0.0~beta8.deb
+
+Package: com.thecomputerwhisperer.AppStoreOnceMore
+Section: Tweaks
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader
+Architecture: iphoneos-arm
+Description: إصلاح مشاكل الاب ستور
+Name: App Store Once More
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://jailbreakgroup.github.io/depictions/?p=appstoreoncemore
+Icon: file:///Library/PreferenceBundles/AppStoreOnceMorePrefs.bundle/images/icon@2x.png
+Version: 1.1b-1+debug
+Installed-Size: 552
+Size: 232050
+MD5sum: 4c24f5a246a022d9700cbc3e38c6d374
+Filename: ./debs/appstoreoncemore_1.1b-1+debug.deb
+
+Package: info.rpdev.dateinstatusbar
+Name: Date In Statusbar
+Depends: mobilesubstrate, firmware(>=8.0)
+Architecture: iphoneos-arm
+Description: إضافة التاريخ الى شريط الحالة
+Maintainer: Redpandadev
+Author: Redpandadev
+Section: Tweaks
+Depiction: https://jailbreakgroup.github.io/depictions/?p=dateinstatusbar
+Version: 0.9.1-2
+Installed-Size: 136
+Size: 4896
+MD5sum: b4db63e19d2effe6e130e5e6bd92f8df
+Filename: ./debs/dateinstatusbar_0.9.1-2.deb
+
+Package: com.maxarmin.sixicondock
+Name: SixIconDock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: إضافة ايقونة سادسة للدوك السفلي
+Depiction: https://jailbreakgroup.github.io/depictions/?p=sixicondock
+Maintainer: maxarmin
+Author: maxarmin
+Section: Tweaks
+Version: 0.1.0-1+debug
+Installed-Size: 117
+Size: 2976
+MD5sum: 0c45c8de383e4096ccadf9ae70358df6
+Filename: ./debs/sixicondock_0.1.0-1debug.deb
