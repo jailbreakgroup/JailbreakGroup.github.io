@@ -1,28 +1,28 @@
 <package>
-	<id>disablertl</id>
-	<name>اداة disablertl</name>
-	<version>1.1-1</version>
+	<id></id>
+	<name>اداة </name>
+	<version></version>
 	<compatibility>
 		<firmware>
-			<miniOS>9.0</miniOS>
+			<miniOS>6.0</miniOS>
 			<maxiOS>11.4</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>MobileSubstrate</package>
+		<package>MbileSubstrate, Cydia</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>إعادة محاذاة اللغة العربية (من اليمين إلى اليسار)</description>
+		<description>
+		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description></description>			
-			<image>1.jpg</image>
-		</screenshot>					
+			<description></description>
+			<image>1.png</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>حل مشكلة الكراش</change>
-		<change>تطبيق المحاذاة على كامل النظام</change>
+		<change>دعم</change>
 	</changelog>
 </package>

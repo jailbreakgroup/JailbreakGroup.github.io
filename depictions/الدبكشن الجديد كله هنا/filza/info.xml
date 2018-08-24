@@ -1,28 +1,28 @@
 <package>
-	<id>filza64bit</id>
-	<name>اداة filza64bit</name>
-	<version>3.5.2-4</version>
+	<id></id>
+	<name>اداة </name>
+	<version></version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>6.0</miniOS>
 			<maxiOS>11.4</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>zip, unzip, gzip, unrar, p7zip</package>
+		<package>MbileSubstrate, Cydia</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>متصفح لملفات النظام
+		<description>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description></description>			
-			<image></image>
-		</screenshot>		
+			<description></description>
+			<image>1.png</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>دعم iOS 11</change>
+		<change>دعم</change>
 	</changelog>
 </package>

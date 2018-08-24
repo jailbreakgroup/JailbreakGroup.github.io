@@ -1,7 +1,7 @@
 <package>
-	<id>com.julioverne.celldia</id>
-	<name>اداة CellDia</name>
-	<version>0.0~beta5</version>
+	<id></id>
+	<name>اداة </name>
+	<version></version>
 	<compatibility>
 		<firmware>
 			<miniOS>6.0</miniOS>
@@ -13,16 +13,16 @@
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>تغيير تصميم السيديا
+		<description>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>صوره</description>			
+			<description></description>
 			<image>1.png</image>
-		</screenshot>		
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>دعم iOS 11</change>
+		<change>دعم</change>
 	</changelog>
 </package>
