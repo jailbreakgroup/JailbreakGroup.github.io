@@ -64,7 +64,7 @@ function loadPackageInfo() {
 			if(decodeResp.open == true) {
 				$("#is_open_source_").show();
 			}
-			
+
         },
 		error: function (err) {
 			$("#errorInfo").html("Description unavailable for "+urlSelfParts[1]);
@@ -86,13 +86,13 @@ function loadRecentUpdates() {
 				if (navigator.userAgent.search(/Cydia/) == -1) {
 					urlOpen = window.location.protocol+"//"+window.location.hostname+"/depictions/index.html?p="+decodeResp[dicNow].package;
 				}
-				htmlnews +=  "<li><a href='"+urlOpen+"' target='_blank'><img class='icon' src='logo.png'/><label>"+decodeResp[dicNow].name+" v"+decodeResp[dicNow].version+"</label></a></li>";
+				htmlnews +=  "<li><a href='"+urlOpen+"' target='_blank'><img class='icon' src='tweak.png'/><label>"+decodeResp[dicNow].name+" v"+decodeResp[dicNow].version+"</label></a></li>";
 			}
 			$("#updates").html(htmlnews);
-			$("#updates_").show();			
+			$("#updates_").show();
         },
 		error: function (err) {
-			$("#updates_").hide();	
+			$("#updates_").hide();
 		}
 	});
 }
