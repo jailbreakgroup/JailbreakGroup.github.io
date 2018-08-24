@@ -22,7 +22,7 @@ function loadPackageInfo() {
 	$.ajax({
 		url: form_url,
 		type: "GET",
-		cache: false,
+		cache: false, 
 		crossDomain: true,
 		success: function (returnhtml) {
 			$("#tweakStatusInfo").hide();
