@@ -58,7 +58,7 @@ Package: com.spark.batterypercentx
 Name: BatteryPercentX [Public]
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: إستبدال ايقونة البطارية بالنسبة المئوية لiPhone X
+Description: إستبدال ايقونة البطارية بالنسبة المئوية لـiPhone X
 Depiction: https://jailbreakgroup.github.io/depictions/?p=BatteryPercentX
 Maintainer: Spark
 Author: Spark
