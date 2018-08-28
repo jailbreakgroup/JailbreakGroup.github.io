@@ -69,11 +69,11 @@ Depiction: https://jailbreakgroup.github.io/depictions/?p=makecydiabuyagain
 Maintainer: Jake Ihasz
 Author: Jake Ihasz
 Section: Tweaks
-Version: 1.0-23+debug
-Installed-Size: 160
-Size: 18700
-MD5sum: 7239bedae61545319a39e76f8bb0f91c
-Filename: ./debs/makecydiabuyagain_1.0-23+debug.deb
+Version: 1.0.2-89+debug
+Installed-Size: 176
+Size: 21994
+MD5sum: 51d410afdddf100770b90842df01ab3a
+Filename: ./debs/makecydiabuyagain_1.0.2-89+debug.deb
 
 Package: Flex3beta
 Name: Flex 3 Beta
