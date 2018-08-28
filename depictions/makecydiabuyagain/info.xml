@@ -1,7 +1,7 @@
 <package>
 	<id>makecydiabuyagain</id>
 	<name>أداة MakeCydiaBuyAgain</name>
-	<version>1.0-23+debug</version>
+	<version>1.0.2-89+debug</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -16,7 +16,8 @@
 	<descriptionlist>
 		<description><![CDATA[
 		تفعيل الشراء من داخل السيديا بسبب عدم دعمها للاصدار 11 <br/> 
-		لذلك يجب تفعيله بهذه الاداه حتى تستطيع شراء الادوات
+		لذلك يجب تفعيله بهذه الاداه حتى تستطيع شراء الادوات<br/>
+		<font color="orange">ضبط إعدادات الأداة من السيديا</font>
 		]]>
 		</description>
 	</descriptionlist>
