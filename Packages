@@ -116,9 +116,9 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: Avertas
 Package: com.kunderscore.avertas
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, applist
-Section: Tweaks
+Section: Tweaks 
 Installed-Size: 196
-Version: 7-1
+Version: 9-2
 Architecture: iphoneos-arm
 Description: للتنقل بين التطبيقات بالخلفية بطريقة جميلة
 Depiction: https://jailbreakgroup.github.io/depictions/?p=avertas
@@ -127,9 +127,9 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: kunderscore
 Tag: purpose::extension, compatible::ios11
 Icon: file:///Library/PreferenceBundles/AvertasPreferences.bundle/Avertas@2x.png
-Size: 40856
-MD5sum: ae68239e7867eaf571e726a6318fa9bd
-Filename: ./debs/avertas_7-1.deb
+Size: 40892
+MD5sum: cff38c5597f8f0a50cd29415858b504a
+Filename: ./debs/avertas_9-2.deb
 
 Package: com.spark.batterypercentx
 Name: BatteryPercentX [Public]
@@ -162,25 +162,20 @@ MD5sum: f9acfeed7a5578615fba84b970cc98b8
 Filename: ./debs/bettersettings10.deb
 
 Name: BigShotJb (iOS 11)
-Package: com.tapthaker.bigshotjb11
-Priority: optional
-Depends: firmware (>= 8.0), mobilesubstrate, libactivator (>= 1.8.3), com.rpetrich.rocketbootstrap
-Conflicts: com.tapthaker.bigshotjb
-Version: 0.0.2-2
+Package: com.julioverne.bigshotjb11
+Depends: mobilesubstrate, libactivator
+Conflicts: com.tapthaker.bigshotjb, com.tapthaker.bigshotjb11
+Version: 0.0.2-2a
 Architecture: iphoneos-arm
 Description: أخذ صورة كاملة للشاشة
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bigshotjbDp
-Depiction: https://jailbreakgroup.github.io/depictions/?p=bigshotjb11
-Sponsor: thebigboss.org <http://thebigboss.org>
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Author: Tapan Thaker (tapthaker) <tapan.d.thaker@gmail.com>
+Maintainer: Julio
+Author: Tapan Thaker (tapthaker), julioverne
 dev: tapthaker
 Section: Tweaks
-Tag: purpose::extension, compatible::ios9
-Installed-Size: 212
-Size: 32840
-MD5sum: b1cc164bfec0012f4985b11e85be3a0e
-Filename: ./debs/bigshotjb11_0.0.2-2.deb
+Depiction: https://jailbreakgroup.github.io/depictions/?p=bigshotjb11
+Size: 33268
+MD5sum: e4e9fbb6b97b2a3285e27529e51da3ca
+Filename: ./debs/bigshotjb11_0.0.2-2a.deb
 
 Package: com.julioverne.celldia
 Name: CellDia
