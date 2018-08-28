@@ -1,0 +1,36 @@
+<package>
+	<id>closecam</id>
+	<name>أداة CloseCam</name>
+	<version>0.0~beta2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		يُشاع انه عندما تستخدم الكاميرا وتغلقها تظل تعمل في الخلفيه وتكون سبب في عرضة جهازك لاستنزاف غير عادي للبطاريه لذلك هذه الاداه تعالج المشكله وتقوم باغلاق الكاميرا فورا عند خروجك منها<br/>
+		
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image></image>
+		</screenshot>
+		<screenshot>
+			<description></description>			
+			<image></image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>اصبحت تدعم الاغلاق من البرامج التي تعمل في الخلفيه - سحبتين للاعلى مثل اغلاق البرامج العادي</change>
+	</changelog>
+</package>

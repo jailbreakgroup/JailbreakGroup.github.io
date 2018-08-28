@@ -1,0 +1,35 @@
+<package>
+	<id>KeySwipe</id>
+	<name>أداة KeySwipe</name>
+	<version>1.0.2-3a</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>iOS (>= 7.0), MobileSubstrate (>= 0.9.5000), PreferenceLoader</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		تغييـر الكيبورد في جهازك بالسحب لاعلى واسفل للتنقل بسهوله<br/> 
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image></image>
+		</screenshot>
+		<screenshot>
+			<description></description>			
+			<image></image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>أصدار أولي للأداة</change>
+	</changelog>
+</package>

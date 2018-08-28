@@ -1,3 +1,64 @@
+Package: com.julioverne.closecam
+Architecture: iphoneos-arm
+Version: 0.0~beta2
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Homepage: http://twitter.com/ijulioverne
+Description: اغلاق الكاميرا عند الخروج منها وعدم استعمالها
+Name: CloseCam
+Author: julioverne
+Depiction: https://jailbreakgroup.github.io/depictions/?p=closecam
+Size: 6426
+MD5sum: 7dfd93bdc1cb80fc2fa3ef08913c1f1e
+Filename: ./debs/closecam_0.0_beta2.deb
+Package: com.julioverne.illlooklater11
+Name: IllLookLater (iOS 11)
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 7.0)
+Conflicts: com.N104.IllLookLater
+Architecture: iphoneos-arm
+Description: انظر الى شاشة هاتف فقط عندما تريد ذلك
+Maintainer: Julio
+Author: N104, julioverne
+Section: Tweaks
+Version: 2.0-2
+Depiction: https://jailbreakgroup.github.io/depictions/?p=illlooklater11
+Size: 63910
+MD5sum: 71956aa9ae3a698a0ae11ec1b669d7f3
+Filename: ./debs/illlooklater11_2.0-2.deb
+
+Author: Delewhopper, julioverne
+Maintainer: Julio
+Name: KeySwipe (iOS 11)
+Package: com.julioverne.keyswipe11
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: org.thebigboss.keyswipe
+Section: Tweaks
+Version: 1.0.2-3a
+Architecture: iphoneos-arm
+Description: تغيير الكيبورد بالسحب لاعلى واسفل
+dev: delewhopper
+Icon: file:///Library/PreferenceBundles/keyswipeprefs.bundle/keyswipeicon.png
+Depiction: https://jailbreakgroup.github.io/depictions/?p=KeySwipe11
+Size: 16654
+MD5sum: 43dc1c10c4d289c21b0759b69c4aa892
+Filename: ./debs/keyswipe11_1.0.2-3a.deb
+
+Package: com.aids.makecydiabuyagain
+Name: MakeCydiaBuyAgain
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: تفعيل الشراء داخل السيديا
+Depiction: https://jailbreakgroup.github.io/depictions/?p=makecydiabuyagain
+Maintainer: Jake Ihasz
+Author: Jake Ihasz
+Section: Tweaks
+Version: 1.0-23+debug
+Installed-Size: 160
+Size: 18700
+MD5sum: 7239bedae61545319a39e76f8bb0f91c
+Filename: ./debs/makecydiabuyagain_1.0-23+debug.deb
+
 Package: Flex3beta
 Name: Flex 3 Beta
 Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap

@@ -1,0 +1,38 @@
+<package>
+	<id>illlooklater11</id>
+	<name>أداة illlooklater11</name>
+	<version>2.0-2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Mobilesubstrate, PreferenceLoader, Applist, iOS (>= 7.0)</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		كل ما اضاءت شاشة هاتفك كل ما قل عمر البطارية خذها قاعده<br/> 
+		ومن اكثر ما يضيىء الشاشه دون ان تشعر هي الاشعارات لذلك هذه الاداه تعطل اضاءة الشاشه فقط وكل شئ يصلك طبيعي
+		وتستطيع ان ترفع هاتفك فقط متى ما اردت ذلك .. ليس في كل مره يصلك فيها اشعار
+		فهي ايضا تساعدك على التركيز وعدم التشتيت وتقلل ادمانك على الجهاز
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image></image>
+		</screenshot>
+		<screenshot>
+			<description></description>			
+			<image></image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>أصدار أولي للأداة</change>
+	</changelog>
+</package>

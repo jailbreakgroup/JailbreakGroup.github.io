@@ -1,0 +1,36 @@
+<package>
+	<id>makecydiabuyagain</id>
+	<name>أداة MakeCydiaBuyAgain</name>
+	<version>1.0-23+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		تفعيل الشراء من داخل السيديا بسبب عدم دعمها للاصدار 11 <br/> 
+		لذلك يجب تفعيله بهذه الاداه حتى تستطيع شراء الادوات
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image></image>
+		</screenshot>
+		<screenshot>
+			<description></description>			
+			<image></image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>أصدار أولي للأداة</change>
+	</changelog>
+</package>
