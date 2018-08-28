@@ -1,0 +1,29 @@
+<package>
+	<id>alphabetsources</id>
+	<name>أداة AlphabetSources</name>
+	<version>1.1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>تقسيم وترتيب السورسات أبجديًا
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image>1.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>حل مشكلة التعارض مع الأدوات الأخرى</change>
+	</changelog>
+</package>

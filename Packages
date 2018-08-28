@@ -1,3 +1,19 @@
+Package: com.hackingdartmouth.alphabetsources
+Name: AlphabetSources
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: تقسيم وترتيب السورسات أبجديًا
+Maintainer: Alex Beals <Alex.Beals.18@dartmouth.edu>
+Author: Alex Beals <Alex.Beals.18@dartmouth.edu>
+Section: Tweaks
+Icon: file:///Library/Application Support/AlphabetSources/icon@2x.png
+Depiction: https://jailbreakgroup.github.io/depictions/?p=alphabetsources
+Version: 1.1.1
+Installed-Size: 212
+Size: 18372
+MD5sum: 1880565ed2713356aba7e51042ecb372
+Filename: ./debs/alphabetsources_1.1.1.deb
+
 Package: com.julioverne.closecam
 Architecture: iphoneos-arm
 Version: 0.0~beta2
