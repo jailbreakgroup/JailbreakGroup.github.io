@@ -28,6 +28,7 @@ Depiction: https://jailbreakgroup.github.io/depictions/?p=closecam
 Size: 6426
 MD5sum: 7dfd93bdc1cb80fc2fa3ef08913c1f1e
 Filename: ./debs/closecam_0.0_beta2.deb
+
 Package: com.julioverne.illlooklater11
 Name: IllLookLater (iOS 11)
 Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 7.0)
