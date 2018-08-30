@@ -1,0 +1,34 @@
+<package>
+	<id>fdots</id>
+	<name>أداة fdots</name>
+	<version>1.0.0-4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		إخفاء جميع النقاط من النظام<br/>
+		إخفاء نقاط الصفحات من الشاشة الرئيسية<br/> 
+		إخفاء ايقونة الأشعارات من التطبيقات<br/> 	
+		إخفاء النقطة الزرقاء بعد تحديث التطبيقات<br/> 
+		إخفاء النقطة البرتقالية للتطبيقات التجريبية
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>1.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>إضافة دعم iOS11</change>
+	</changelog>
+</package>

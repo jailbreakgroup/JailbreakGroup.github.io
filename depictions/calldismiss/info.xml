@@ -1,0 +1,28 @@
+<package>
+	<id>calldismiss</id>
+	<name>أداة CallDismiss</name>
+	<version>1.0.0~beta6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, iOS >=9.0, PreferenceLoader</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>تجاهل المكالمات بالضغط على زر الهوم
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>إصدار اولي للأداة</change>
+	</changelog>
+</package>

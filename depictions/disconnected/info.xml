@@ -1,0 +1,28 @@
+<package>
+	<id>disconnected</id>
+	<name>أداة disconnected</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, libbulletin</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>إضافة اشعار عند إنقطاع الاتصال بالواي فاي
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>1.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>إصدار أولي للاداة</change>
+	</changelog>
+</package>

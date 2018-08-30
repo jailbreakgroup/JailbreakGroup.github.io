@@ -1,0 +1,28 @@
+<package>
+	<id>facespro</id>
+	<name>أداة facespro</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, libcolorpicker, Chepi</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>استبدال خلفية الارقام بصورة على شاشة القفل
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>1.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>إضافة دعم iOS11</change>
+	</changelog>
+</package>

@@ -1,0 +1,36 @@
+<package>
+	<id>glacies</id>
+	<name>أداة Vitrum</name>
+	<version>1.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, libcolorpicker</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>تخصيص خلفية مركز التحكم والتحكم بشفافيته
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>1.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>2.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>3.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>إضافة دعم iOS11</change>
+	</changelog>
+</package>

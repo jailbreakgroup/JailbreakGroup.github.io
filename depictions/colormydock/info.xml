@@ -1,0 +1,45 @@
+<package>
+	<id>colormydock</id>
+	<name>أداة colormydock</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, iOS >=11.0, PreferenceLoader, libOBsutilities, Chepi</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>تلوين الدوك السفلي
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>1.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>2.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>3.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>4.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>5.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>إصدار اولي للأداة</change>
+	</changelog>
+</package>

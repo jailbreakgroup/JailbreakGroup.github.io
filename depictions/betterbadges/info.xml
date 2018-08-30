@@ -1,0 +1,40 @@
+<package>
+	<id>betterbadges</id>
+	<name>أداة betterbadges</name>
+	<version>1.6-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, iOS >=7.0, PreferenceLoader, libOBSUtilities</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>تخصيص شكل ايقونة الاشعارات على التطبيقات 
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>1.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>2.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>3.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>4.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>إضافة اعدادات للأداة</change>
+	</changelog>
+</package>

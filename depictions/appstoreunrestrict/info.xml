@@ -1,0 +1,29 @@
+<package>
+	<id>appstoreunrestrict</id>
+	<name>أداة appstoreunrestrict</name>
+	<version>0.0~beta4a</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MoobileSubstrate, PreferenceLoader</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>السماح بتحميل التطبيقات ذات حجم أكبر من 150 ميجا بايت من الـAppStore
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image>1.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>أصدار أولي للأداة</change>
+	</changelog>
+</package>

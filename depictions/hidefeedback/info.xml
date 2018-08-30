@@ -1,0 +1,28 @@
+<package>
+	<id>hidefeedback</id>
+	<name>أداة hidefeedback</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>إخفاء ايقونة feedback عند إستعمال رابط ايقاف التحديثات
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>إصدار أولي للأداة</change>
+	</changelog>
+</package>

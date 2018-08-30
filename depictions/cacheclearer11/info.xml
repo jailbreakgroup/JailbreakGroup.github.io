@@ -1,0 +1,29 @@
+<package>
+	<id>cacheclearer11</id>
+	<name>أداة CacheClearer (iOS 11)</name>
+	<version>1.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, iOS >=7.0</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>تنظيف الكاش للتطبيقات
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>إصدار اولي للأداة</change>
+	</changelog>
+</package>

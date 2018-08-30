@@ -1,0 +1,28 @@
+<package>
+	<id>laetus</id>
+	<name>أداة laetus</name>
+	<version>0.0.1-108</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>تغيير لون الكيبورد
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>إضافة دعم iOS11</change>
+	</changelog>
+</package>

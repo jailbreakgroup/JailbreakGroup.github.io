@@ -1,0 +1,29 @@
+<package>
+	<id>askbeforecallingtoo11</id>
+	<name>أداة askbeforecallingtoo11</name>
+	<version>1.0.0~beta18-6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, iOS >=11.0, PreferenceLoader</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>أضافة تاكيد قبل القيام بالإتصال
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>إضافة قائمة لإستثناء ظهور تاكيد لها</change>
+	</changelog>
+</package>
