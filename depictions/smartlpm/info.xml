@@ -12,8 +12,8 @@
 		<package>MobileSubstrate</package>
 	</dependencies>
 	<shortDescription></shortDescription>
-	<descriptionlist>تفعيل وضع توفير الطاقة عند اغلاق الجهاز وشحنه
-		<description>
+	<descriptionlist>
+		<description>تفعيل وضع توفير الطاقة عند اغلاق الجهاز وشحنه
 		</description>
 	</descriptionlist>
 	<screenshots>

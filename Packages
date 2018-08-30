@@ -127,7 +127,7 @@ Name: NoMoreSmallApps [Public]
 Depends: mobilesubstrate, com.spark.libsparkapplist
 Architecture: iphoneos-arm
 Description: جعل البرامج تعمل بوضع الشاشة الكاملة على iPhone X
-Depiction: https://jailbreakgroup.github.io/depictions/?p=NoMoreSmallApps
+Depiction: https://jailbreakgroup.github.io/depictions/?p=nomoresmallapps
 Maintainer: Spark
 Author: Spark
 Section: Tweaks
@@ -140,7 +140,7 @@ Filename: ./debs/nomoresmallapps_0.0.2.deb
 Package: com.rishanan.nvs
 Name: NoVolumeSlider
 Depends: mobilesubstrate
-Depiction: https://jailbreakgroup.github.io/depictions/?p=novolumeSlider
+Depiction: https://jailbreakgroup.github.io/depictions/?p=novolumeslider
 Architecture: iphoneos-arm
 Description: ازالة شريط رفع الصوت من جميع البرامج
 Maintainer: Rishanan

@@ -13,8 +13,8 @@
 		<package>iOS (>=10.0), MobileSubstrate, PreferenceLoader</package>
 	</dependencies>
 	<shortDescription></shortDescription>
-	<descriptionlist>اظاهر منبهك القادم على شاشة القفل للتسهيل عليك لتعرف مواعيدك بسهوله
-		<description>
+	<descriptionlist>
+		<description>اظهر منبهك القادم على شاشة القفل للتسهيل عليك لتعرف مواعيدك بسهوله
 		</description>
 	</descriptionlist>
 	<screenshots>

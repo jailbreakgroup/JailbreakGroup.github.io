@@ -12,8 +12,8 @@
 		<package>iOS (>= 7.0), MobileSubstrate (>= 0.9.5000), PreferenceLoader (>= 2.2.2)</package>
 	</dependencies>
 	<shortDescription></shortDescription>
-	<descriptionlist>عرض مؤقت العد على شريط الحاله
-		<description>
+	<descriptionlist>
+		<description>عرض مؤقت العد على شريط الحاله
 		</description>
 	</descriptionlist>
 	<screenshots>

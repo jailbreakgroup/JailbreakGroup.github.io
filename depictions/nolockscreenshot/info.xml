@@ -12,8 +12,8 @@
 		<package>MobileSubstrate</package>
 	</dependencies>
 	<shortDescription></shortDescription>
-	<descriptionlist>تعطيل اخذ لقطة للشاشة عندما يكون الجهاز بوضع القفل
-		<description>
+	<descriptionlist>
+		<description>تعطيل اخذ لقطة للشاشة عندما يكون الجهاز بوضع القفل
 		</description>
 	</descriptionlist>
 	<screenshots>

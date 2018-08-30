@@ -12,8 +12,8 @@
 		<package>iOS >= 11, Cydia Substrate</package>
 	</dependencies>
 	<shortDescription></shortDescription>
-	<descriptionlist>استخدم شريط الحاله القديم على ايفون X
-		<description>
+	<descriptionlist>
+		<description>استخدم شريط الحاله القديم على ايفون X
 		</description>
 	</descriptionlist>
 	<screenshots>

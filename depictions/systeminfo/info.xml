@@ -12,8 +12,8 @@
 		<package>MobileSubstrate, iOS (>= 3.0)</package>
 	</dependencies>
 	<shortDescription></shortDescription>
-	<descriptionlist>اظف معلومات اكثر الى اعدادات جهازك
-		<description>
+	<descriptionlist>
+		<description>اضف معلومات اكثر الى اعدادات جهازك
 		</description>
 	</descriptionlist>
 	<screenshots>

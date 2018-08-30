@@ -12,8 +12,8 @@
 		<package>MobileSubstrate, PreferenceLoader</package>
 	</dependencies>
 	<shortDescription></shortDescription>
-	<descriptionlist>عرض الوقت المتبقي للمنبه القادم على تطبيق الساعه
-		<description>
+	<descriptionlist>
+		<description>عرض الوقت المتبقي للمنبه القادم على تطبيق الساعه
 		</description>
 	</descriptionlist>
 	<screenshots>

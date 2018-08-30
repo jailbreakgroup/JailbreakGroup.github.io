@@ -13,8 +13,8 @@
 		<package>MobileSubstrate, iOS (>=11.0) </package>
 	</dependencies>
 	<shortDescription></shortDescription>
-	<descriptionlist>حذف المربع الذي يظهر بعد اخذ لقطة للشاشه
-		<description>
+	<descriptionlist>
+		<description>حذف المربع الذي يظهر بعد اخذ لقطة للشاشه
 		</description>
 	</descriptionlist>
 	<screenshots>

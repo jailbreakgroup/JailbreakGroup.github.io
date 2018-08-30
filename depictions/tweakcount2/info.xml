@@ -12,8 +12,8 @@
 		<package>iOS (>= 6.0), MobileSubstrate (>= 0.9.5000), cydia (>= 1.1.19), PreferenceLoader</package>
 	</dependencies>
 	<shortDescription></shortDescription>
-	<descriptionlist>اظهـار عدد الادوات المثبته لديك في السيديا
-		<description>
+	<descriptionlist>
+		<description>اظهـار عدد الادوات المثبته لديك في السيديا
 		</description>
 	</descriptionlist>
 	<screenshots>

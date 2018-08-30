@@ -12,8 +12,8 @@
 		<package>MobileSubstrate</package>
 	</dependencies>
 	<shortDescription></shortDescription>
-	<descriptionlist>فتح الجهاز مباشرة اذا لم يكن هنالك اشعارات على الشاشه
-		<description>
+	<descriptionlist>
+		<description>فتح الجهاز مباشرة اذا لم يكن هنالك اشعارات على الشاشه
 		</description>
 	</descriptionlist>
 	<screenshots>

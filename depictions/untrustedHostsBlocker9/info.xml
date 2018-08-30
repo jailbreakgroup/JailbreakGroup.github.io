@@ -12,8 +12,8 @@
 		<package>iOS (>= 9.0), sed, grep, coreutils, shell-cmds</package>
 	</dependencies>
 	<shortDescription></shortDescription>
-	<descriptionlist>من افضل الادوات لمنع الاعلانات بجهازك
-		<description>
+	<descriptionlist>
+		<description>من افضل الادوات لمنع الاعلانات بجهازك
 		</description>
 	</descriptionlist>
 	<screenshots>

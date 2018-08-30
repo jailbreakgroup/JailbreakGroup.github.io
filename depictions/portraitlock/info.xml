@@ -12,8 +12,8 @@
 		<package>mobilesubstrate, applist, preferenceloader</package>
 	</dependencies>
 	<shortDescription></shortDescription>
-	<descriptionlist>تفعيل / تعطيل وضع دوران الشاشه في برامج تحددها انت
-		<description>
+	<descriptionlist>
+		<description>تفعيل / تعطيل وضع دوران الشاشه في برامج تحددها انت
 		</description>
 	</descriptionlist>
 	<screenshots>
