@@ -1,0 +1,28 @@
+<package>
+	<id>celldia</id>
+	<name>اداة CellDia</name>
+	<version>0.0~beta5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>6.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MbileSubstrate, Cydia</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>تغيير تصميم السيديا
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image>1.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>دعم iOS 11</change>
+	</changelog>
+</package>
