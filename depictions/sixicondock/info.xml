@@ -16,6 +16,14 @@
 		<description>السماح بإضافة ستة ايقونات للدوك السفلي
 		</description>
 	</descriptionlist>
+	
+		<screenshots>
+		<screenshot>
+			<description></description>			
+			<image>1.jpg</image>
+		</screenshot>		
+	</screenshots>	
+	
 	<changelog>
 		<change>إصدار أولي للأداة</change>
 	</changelog>
