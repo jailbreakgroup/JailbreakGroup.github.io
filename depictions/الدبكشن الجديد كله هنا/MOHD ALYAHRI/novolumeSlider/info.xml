@@ -1,10 +1,10 @@
 <package>
-	<id>smallsiri</id>
-	<name>اداة SmallSiri </name>
+	<id>novolumeSlider</id>
+	<name>اداة </name>
 	<version></version>
 	<compatibility>
 		<firmware>
-			<miniOS>10.0</miniOS>
+			<miniOS>6.0</miniOS>
 			<maxiOS>11.4</maxiOS>
 		</firmware>
 	</compatibility>
@@ -12,25 +12,17 @@
 		<package>MobileSubstrate</package>
 	</dependencies>
 	<shortDescription></shortDescription>
-	<descriptionlist>تصغيير سيري على الشاشه عند الحديث معها
+	<descriptionlist>ازالة شريط رفع الصوت من جميع البرامج
 		<description>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image>1.png</image>
-		</screenshot>
-			<screenshot>
-			<description></description>
-			<image>2.png</image>
-		</screenshot>
-			<screenshot>
-			<description></description>
-			<image>3.png</image>
+			<image></image>
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>دعم</change>
+		<change>اصدار اولي للاداة</change>
 	</changelog>
 </package>

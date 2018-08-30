@@ -1,6 +1,10 @@
 <changelog>
 	<changes>
-		<version>مستقبلاً</version>
-		<change>سيتم اضافة التغييرات عند اقرب فرصه</change>
+		<version>0.0.2</version>
+		<change>اصلاح بعض الاخطاء</change>
+	</changes>
+	<changes>
+		<version>0.0.1</version>
+		<change>اصدار اولي للاداة</change>
 	</changes>
 </changelog>

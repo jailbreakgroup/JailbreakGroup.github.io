@@ -1,6 +1,9 @@
 <changelog>
 	<changes>
-		<version>مستقبلاً</version>
-		<change>سيتم اضافة التغييرات عند اقرب فرصه</change>
+		<version>0.0.1</version>
+		<change>اصلاح انيهار الشاشه الرئيسيه</change>
+	</changes>
+		<version>0.0.2</version>
+		<change>اصدار اولي للاداه</change>
 	</changes>
 </changelog>

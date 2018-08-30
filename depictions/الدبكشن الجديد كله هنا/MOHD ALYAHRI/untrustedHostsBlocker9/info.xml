@@ -1,28 +1,28 @@
 <package>
-	<id></id>
-	<name>اداة </name>
+	<id>untrustedhostsblocker9</id>
+	<name>اداة iOS 9/10/11 - Untrusted Hosts Blocker </name>
 	<version></version>
 	<compatibility>
 		<firmware>
-			<miniOS>6.0</miniOS>
+			<miniOS>9.0</miniOS>
 			<maxiOS>11.4</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>MbileSubstrate, Cydia</package>
+		<package>iOS (>= 9.0), sed, grep, coreutils, shell-cmds</package>
 	</dependencies>
 	<shortDescription></shortDescription>
-	<descriptionlist>
+	<descriptionlist>من افضل الادوات لمنع الاعلانات بجهازك
 		<description>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image>1.png</image>
+			<image></image>
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>دعم</change>
+		<change>دعم iOS 11</change>
 	</changelog>
 </package>

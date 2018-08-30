@@ -1,28 +1,28 @@
 <package>
-	<id></id>
-	<name>اداة </name>
+	<id>systeminfo</id>
+	<name>اداة System Info </name>
 	<version></version>
 	<compatibility>
 		<firmware>
-			<miniOS>6.0</miniOS>
+			<miniOS>3.0</miniOS>
 			<maxiOS>11.4</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>MbileSubstrate, Cydia</package>
+		<package>MobileSubstrate, iOS (>= 3.0)</package>
 	</dependencies>
 	<shortDescription></shortDescription>
-	<descriptionlist>
+	<descriptionlist>اظف معلومات اكثر الى اعدادات جهازك
 		<description>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image>1.png</image>
+			<image></image>
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>دعم</change>
+		<change>اشياء كثيره والله مافيني حيل اكتبها</change>
 	</changelog>
 </package>

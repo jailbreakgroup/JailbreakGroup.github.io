@@ -1,3 +1,359 @@
+Package: com.muirey03.smallsiri
+Name: SmallSiri
+Depends: MobileSubstrate
+Architecture: iphoneos-arm
+Description: تصغيير سيري على الشاشه عند الحديث معها
+Depiction: https://jailbreakgroup.github.io/depictions/?p=smallsiri
+Maintainer: Muirey03
+Author: Muirey03
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 117
+Size: 7078
+MD5sum: 39a4c28d427fc3d0f3b65122c278ce06
+Filename: ./debs/SmallSiri.deb
+
+Package: com.thireus.untrustedhostsblocker9
+Priority: standard
+Name: iOS 9/10/11 - Untrusted Hosts Blocker
+Version: 1.4.0
+Installed-Size: 68
+Section: Security
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware (>= 9.0), sed, grep, coreutils, shell-cmds
+Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker
+Architecture: iphoneos-arm
+Depiction: https://jailbreakgroup.github.io/depictions/?p=untrustedhostsblocker9
+Author: Thireus <repo@thireus.com>
+Maintainer: Thireus <repo@thireus.com>
+Description: من افضل الادوات لمنع الاعلانات بجهازك
+Homepage: https://repo.thireus.com
+Size: 45352
+MD5sum: 1b71002fd80d321cbe14cec7ec67bceb
+Filename: ./debs/UntrustedHostsBlocker9_1.4.0-1.deb
+
+Package: com.spark.melior
+Name: Melior [Public]
+Depends: MobileSubstrate, PreferenceLoader
+Conflits: com.ruler225.videohud, com.jeffrey.pikabulite, com.jeffrey.pikabu
+Architecture: iphoneos-arm
+Description: تغيير واجعة الصوت وتصميمها
+Depiction: https://jailbreakgroup.github.io/depictions/?p=melior
+Maintainer: Spark
+Author: Spark & Dennis Bednarz
+Section: Tweaks
+Version: 1.0.6-1
+Installed-Size: 844
+Size: 208304
+MD5sum: 0d59359a996519fc240c6ae74ddabbdf
+Filename: ./debs/melior_1.0.6-1.deb
+
+Package: com.smokin1337.moveupcydia
+Name: MoveUpCydia
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: رفع اقسام السيديا السفليه الى الاعلى عند وضع الشاشه الكامله
+Depiction: https://jailbreakgroup.github.io/depictions/?p=moveupcydia
+Maintainer: smokin1337
+Author: smokin1337
+Section: Tweaks
+Version: 1.0-3
+Installed-Size: 72
+Size: 2322
+MD5sum: efc0bea37749a3f29bca6a6c9fdab4c5
+Filename: ./debs/moveupcydia_1.0-3.deb
+
+Package: net.tateu.nextalarm10
+Name: NextAlarm10
+Depends: firmware (>=10.0), MobileSubstrate, PreferenceLoader
+Architecture: iphoneos-arm
+Description: عرض المنبه القادم على شاشة القفل تحت الساعه مباشرة
+Maintainer: tateu
+Author: tateu
+Depiction: https://jailbreakgroup.github.io/depictions/?p=nextalarm10
+Section: Tweaks
+Version: 1.0.0~beta1-10
+Installed-Size: 474
+Size: 115684
+MD5sum: 95dae0965acef715716e693d4f3116d7
+Filename: ./debs/nextalarm10_1.0.0~beta1-10.deb
+
+Package: com.spark.noccbar
+Name: NoCCBar
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: ازالة السهم الصغير الذي يظهر عند سحب مركز التحكم او مركز الاشعارات
+Depiction: https://jailbreakgroup.github.io/depictions/?p=noccbar
+Author: Spark
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 120
+Size: 2726
+MD5sum: ba006826197fe8af99f6abf14c60abe9
+Filename: ./debs/noccbar_1.0.1.deb
+
+Package: nl.d4ni.nolockscreenshot
+Version: 0.0.2
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 120
+Description: تعطيل اخذ لقطة للشاشة عندما يكون الجهاز بوضع القفل
+Depiction: https://jailbreakgroup.github.io/depictions/?p=nolockscreenshot
+Name: NoLockscreenShot
+Author: D4ni <mail@d4ni.nl>
+Size: 3642
+MD5sum: d04e393de5c6ece114a73b827b7e56d1
+Filename: ./debs/nolockscreenshot_0.0.2.deb
+
+Package: com.spark.nolowpowerautolock
+Name: NoLowPowerAutoLock [Public]
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: ازالة القيد (30) ثانيه عند تفعيل وضع توفير الطاقة المنخفضة
+Depiction: https://jailbreakgroup.github.io/depictions/?p=nolowpowerautolock
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 300
+Size: 26888
+MD5sum: cc494732f1cfa8624d4e405b5167efc2
+Filename: ./debs/nolowpowerautolock_0.0.2.deb
+
+Package: com.spark.nomoresmallapps
+Name: NoMoreSmallApps [Public]
+Depends: mobilesubstrate, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Description: جعل البرامج تعمل بوضع الشاشة الكاملة على iPhone X
+Depiction: https://jailbreakgroup.github.io/depictions/?p=NoMoreSmallApps
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 208
+Size: 18748
+MD5sum: c354d7245e94b0ebd6d0aebd3a12792b
+Filename: ./debs/nomoresmallapps_0.0.2.deb
+
+Package: com.rishanan.nvs
+Name: NoVolumeSlider
+Depends: mobilesubstrate
+Depiction: https://jailbreakgroup.github.io/depictions/?p=novolumeSlider
+Architecture: iphoneos-arm
+Description: ازالة شريط رفع الصوت من جميع البرامج
+Maintainer: Rishanan
+Author: Rishanan
+Section: Tweaks
+Version: 1.0
+Installed-Size: 120
+Size: 2522
+MD5sum: 77fae0503e0601269775c88edb75c237
+Filename: ./debs/novolumeslider_1.0.deb
+
+Package: com.ryst.portraitlock
+Name: Portrait Lock
+Depends: mobilesubstrate, applist, preferenceloader
+Conflicts: com.myrepospace.ryst.portraitlock, com.hackingdartmouth.rotatelock
+Architecture: iphoneos-arm
+Description: تفعيل / تعطيل وضع دوران الشاشه في برامج تحددها انت
+Maintainer: Alex Beals <Alex.Beals.18@dartmouth.edu>
+Author: ryst
+Section: Tweaks
+Depiction: https://jailbreakgroup.github.io/depictions/?p=portraitlock
+Icon: file:///Library/PreferenceBundles/PortraitLock.bundle/PortraitLock@2x.png
+Version: 0.1.8-1
+Installed-Size: 320
+Size: 24572
+MD5sum: 9cfa104a130224200883914aab9b37b1
+Filename: ./debs/portraitlock_0.1.8-1.deb
+
+Package: com.rustybalboa.powertapxi
+Name: PowerTapXI
+Depends: mobilesubstrate, com.midnightchips.ldrun
+Architecture: iphoneos-arm
+Description: النسخة المحدثه من PowerTap على iOS 11
+Maintainer: Rusty_Balboa
+Author: Rusty_Balboa
+Section: Tweaks
+Depiction: https://jailbreakgroup.github.io/depictions/?p=powertapxi
+Version: 1.0.0-31
+Installed-Size: 120
+Size: 4558
+MD5sum: a7a87ecce77c1fb98e46c3ab3accad9b
+Filename: ./debs/powertapxi_1.0.0-31.deb
+
+Package: com.simalary.auxiliumdevelopment.previewbegone
+Name: PreviewBeGone
+Depends: mobilesubstrate, firmware(>=11.0)
+Architecture: iphoneos-arm
+Description: حذف المربع الذي يظهر بعد اخذ لقطة للشاشه
+Description: https://jailbreakgroup.github.io/depictions/?p=previewbegone
+Maintainer: Simalary (Chris)
+Author: Simalary (Chris)
+Section: Tweaks
+Version: 1.0
+Installed-Size: 117
+Size: 2882
+MD5sum: 3d312d2844ea5ef7568922e6796eadcc
+Filename: ./debs/previewbegone_1.0.deb
+
+Package: com.julioverne.quickunlock11
+Author: Phillip Tennen, julioverne
+Maintainer: Julio
+Name: QuickUnlock (iOS 11)
+Depends: mobilesubstrate
+Conflicts: com.phillipt.quickunlock
+Section: Tweaks
+Version: 1.0
+Architecture: iphoneos-arm
+Description: فتح الجهاز مباشرة اذا لم يكن هنالك اشعارات على الشاشه
+dev: phillipt
+Depiction: https://jailbreakgroup.github.io/depictions/?p=quickunlock11
+Size: 7338
+MD5sum: 9f4323d1ad8f0f270d6f26c2db731f5b
+Filename: ./debs/quickunlock11_1.0.deb
+
+Package: com.julioverne.raisetoanswer
+Name: RaiseToAnswer (iOS 11)
+Depends: mobilesubstrate
+Conflicts: com.mohammadag.raisetoanswer
+Version: 1.0-1b
+Architecture: iphoneos-arm
+Description: ارفع جهازك للرد على المكالمات
+Maintainer: Julio
+Author: MohammadAG, julioverne
+Section: Tweaks
+Depiction: https://jailbreakgroup.github.io/depictions/?p=raisetoanswer
+dev: mohammadag
+Size: 6970
+MD5sum: a33d3378d6fe3fcda07a49edbc34955e
+Filename: ./debs/raisetoanswer_1.0-1b.deb
+
+Package: com.spark.sleepytime
+Name: SleepyTime
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: عرض الوقت المتبقي للمنبه القادم على تطبيق الساعه
+Depiction: https://jailbreakgroup.github.io/depictions/?p=sleepytime
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 0.0.1-4
+Installed-Size: 336
+Size: 91684
+MD5sum: 26c5f33605e26e7c84daccae5b8c6556
+Filename: ./debs/sleepytime_0.0.1-4.deb
+
+Package: com.muirey03.smallccxi
+Name: SmallCCXI
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: جعل مركز التحكم اصغر 
+Maintainer: Muirey03
+Author: Muirey03
+Section: Tweaks
+Icon: https://auxiliumdev.com/depictions/smallccxi/image.jpg
+Depiction: https://jailbreakgroup.github.io/depictions/?p=smallccxi
+Version: 1.0.5
+Installed-Size: 262
+Size: 23304
+MD5sum: e8cdb91f17b64e80be0610c20b4093a0
+Filename: ./debs/smallccxi_1.0.5.deb
+
+Package: com.smokin1337.smartlpm
+Name: SmartLPM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: وضع ذكي لتوفير الطاقة
+Maintainer: smokin1337
+Description: https://jailbreakgroup.github.io/depictions/?p=smartlpm
+Author: smokin1337
+Section: Tweaks
+Version: 1.3.0-1
+Installed-Size: 332
+Size: 145960
+MD5sum: fdfb47460a8146434c7b981844bbbc4c
+Filename: ./debs/smartlpm_1.3.0-1.deb
+
+Package: net.tateu.statusbarnox
+Name: StatusBar NoX
+Depends: firmware (>=11.0), mobilesubstrate
+Architecture: iphoneos-arm
+Description: استخدم شريط الحاله القديم على ايفون X
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Depiction: https://jailbreakgroup.github.io/depictions/?p=statusbarnox
+Section: Tweaks
+Version: 0.0.2~beta1
+Installed-Size: 287
+Size: 23790
+MD5sum: a170c03c1c940023523e5ae4e896d814
+Filename: ./debs/statusbarnox_0.0.2_beta1.deb
+
+Package: com.ludvigeriksson.statusbartimer
+Name: StatusBarTimer
+Depends: iOS (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Version: 1.2.3
+Architecture: iphoneos-arm
+Description: عرض مؤقت العد على شريط الحاله
+Depiction: https://jailbreakgroup.github.io/depictions/?p=statusbartimer
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=statusbartimerDp
+Installed-Size: 319
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ludvig Eriksson <ludvigeriksson@icloud.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: ludvigeriksson
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:////Library/PreferenceBundles/StatusBarTimerPrefs.bundle/StatusBarTimerPrefs@2x.png
+Size: 58932
+MD5sum: 746aa3bbf6df6fc9dc8f1d4db6f93974
+Filename: ./debs/statusbartimer_1.2.3.deb
+
+Package: xyz.xninja.systeminfo
+Name: System Info
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 3.0)
+Version: 2.0.0-1
+Architecture: iphoneos-arm
+Description: اظف معلومات اكثر الى اعدادات جهازك
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=systeminfoDp
+Depiction: https://jailbreakgroup.github.io/depictions/?p=systeminfo
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: ARX8x <arx8@icloud.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios10, compatible::ios11
+Installed-Size: 913
+dev: arx8x
+Size: 178342
+MD5sum: 9be407c44397f32812cf980f0465bd1a
+Filename: ./debs/systeminfo_2.0.0-1.deb
+
+Package: com.alex.tweakcount2
+Name: Tweak Count 2
+Author: Alexandre <Alexandre31.tweak@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Conflicts: com.alex.tweaksnumber
+Replaces: com.alex.tweaksnumber
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), cydia (>= 1.1.19), preferenceloader
+Section: Tweaks
+Installed-Size: 220
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: اظهـار عدد الادوات المثبته لديك في السيديا
+Depiction: https://jailbreakgroup.github.io/depictions/?p=tweakcount2
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tweakcountDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: alexandre31
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Icon: file:///Library/PreferenceBundles/TweakCount2.bundle/TweakCount2@2x.png
+Size: 26512
+MD5sum: 1725d035b3a89250fb505b0577d37037
+Filename: ./debs/tweakcount2_1.0.1.deb
+
 Package: com.hackingdartmouth.alphabetsources
 Name: AlphabetSources
 Depends: mobilesubstrate

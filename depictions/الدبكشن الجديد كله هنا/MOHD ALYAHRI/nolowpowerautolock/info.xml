@@ -1,10 +1,10 @@
 <package>
-	<id></id>
-	<name>اداة </name>
+	<id>nolowpowerautolock</id>
+	<name>اداة NoLowPowerAutoLock [Public] </name>
 	<version></version>
 	<compatibility>
 		<firmware>
-			<miniOS>6.0</miniOS>
+			<miniOS>11.0</miniOS>
 			<maxiOS>11.4</maxiOS>
 		</firmware>
 	</compatibility>
@@ -12,17 +12,17 @@
 		<package>MbileSubstrate, Cydia</package>
 	</dependencies>
 	<shortDescription></shortDescription>
-	<descriptionlist>
+	<descriptionlist>ازالة القيد (30) ثانيه عند تفعيل وضع توفير الطاقة المنخفضة
 		<description>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image>1.png</image>
+			<image></image>
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>دعم</change>
+		<change>اصلاح بعض الاخطاء</change>
 	</changelog>
 </package>

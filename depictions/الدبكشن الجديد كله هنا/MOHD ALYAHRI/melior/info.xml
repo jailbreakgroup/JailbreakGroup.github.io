@@ -1,18 +1,18 @@
 <package>
-	<id></id>
-	<name>اداة </name>
+	<id>melior</id>
+	<name>اداة Melior [Public] </name>
 	<version></version>
 	<compatibility>
 		<firmware>
-			<miniOS>6.0</miniOS>
+			<miniOS>11.0</miniOS>
 			<maxiOS>11.4</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>MbileSubstrate, Cydia</package>
+		<package>MobileSubstrate, PreferenceLoader</package>
 	</dependencies>
 	<shortDescription></shortDescription>
-	<descriptionlist>
+	<descriptionlist>تغيير واجهة الصوت وتصغيرها بشكل جميل
 		<description>
 		</description>
 	</descriptionlist>
@@ -23,6 +23,6 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>دعم</change>
+		<change>اصدار اولي للاداه</change>
 	</changelog>
 </package>

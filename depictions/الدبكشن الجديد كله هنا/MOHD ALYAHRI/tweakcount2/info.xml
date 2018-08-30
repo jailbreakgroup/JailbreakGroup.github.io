@@ -1,28 +1,28 @@
 <package>
-	<id></id>
-	<name>اداة </name>
+	<id>tweakcount2</id>
+	<name>اداة Tweak Count 2 </name>
 	<version></version>
 	<compatibility>
 		<firmware>
-			<miniOS>6.0</miniOS>
+			<miniOS>8.0</miniOS>
 			<maxiOS>11.4</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>MbileSubstrate, Cydia</package>
+		<package>iOS (>= 6.0), MobileSubstrate (>= 0.9.5000), cydia (>= 1.1.19), PreferenceLoader</package>
 	</dependencies>
 	<shortDescription></shortDescription>
-	<descriptionlist>
+	<descriptionlist>اظهـار عدد الادوات المثبته لديك في السيديا
 		<description>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image>1.png</image>
+			<image></image>
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>دعم</change>
+		<change>بعض الاصلاحات</change>
 	</changelog>
 </package>

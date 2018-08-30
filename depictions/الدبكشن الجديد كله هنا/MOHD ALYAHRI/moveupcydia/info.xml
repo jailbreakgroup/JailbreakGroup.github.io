@@ -1,28 +1,29 @@
 <package>
-	<id></id>
-	<name>اداة </name>
+	<id>moveupcydia</id>
+	<name>اداة MoveUpCydia</name>
 	<version></version>
 	<compatibility>
 		<firmware>
-			<miniOS>6.0</miniOS>
+			<miniOS>11.0</miniOS>
 			<maxiOS>11.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>MbileSubstrate, Cydia</package>
+		<package>MobileSubstrate</package>
 	</dependencies>
 	<shortDescription></shortDescription>
-	<descriptionlist>
+	<descriptionlist>رفع اقسام السيديا السفليه الى الاعلى عند وضع الشاشه الكامله على ايفون X
 		<description>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image>1.png</image>
+			<image></image>
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>دعم</change>
+		<change>اصدار اولي للاداة</change>
 	</changelog>
 </package>

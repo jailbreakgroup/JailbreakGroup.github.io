@@ -1,18 +1,18 @@
 <package>
-	<id></id>
-	<name>اداة </name>
+	<id>powertapxi</id>
+	<name>اداة PowerTapXI </name>
 	<version></version>
 	<compatibility>
 		<firmware>
-			<miniOS>6.0</miniOS>
+			<miniOS>11.0</miniOS>
 			<maxiOS>11.4</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>MbileSubstrate, Cydia</package>
+		<package>MobileSubstrate, com.midnightchips.ldrun</package>
 	</dependencies>
 	<shortDescription></shortDescription>
-	<descriptionlist>
+	<descriptionlist>النسخة المحدثه من PowerTap على iOS 11
 		<description>
 		</description>
 	</descriptionlist>
@@ -23,6 +23,6 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>دعم</change>
+		<change>تحديث لدعم iOS 11</change>
 	</changelog>
 </package>
