@@ -9,11 +9,15 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>MobileSubstrate, Cydia</package>
+		<package>MobileSubstrate, PreferenceLoader</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>
+		<description><![CDATA[
+		
+		.. <br/> 
+		
+		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
