@@ -18,11 +18,29 @@
 		</description>
 	</descriptionlist>
 	<screenshots>
+	
 		<screenshot>
 			<description></description>
-			<image></image>
+			<image>1.jpg</image>
 		</screenshot>
+		
+		<screenshot>
+			<description></description>
+			<image>2.jpg</image>
+		</screenshot>
+		
+		<screenshot>
+			<description></description>
+			<image>3.jpg</image>
+		</screenshot>
+		
+		<screenshot>
+			<description></description>
+			<image>4.jpg</image>
+		</screenshot>
+	
 	</screenshots>
+	
 	<changelog>
 		<change>اصلاح اشعار ايقونة الساعه حتى يتم تحديثه بالطريقة الصحيحه</change>
 	</changelog>
