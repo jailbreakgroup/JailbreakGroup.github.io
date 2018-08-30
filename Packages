@@ -3,7 +3,7 @@ Name: SmallSiri
 Depends: MobileSubstrate
 Architecture: iphoneos-arm
 Description: تصغيير سيري على الشاشه عند الحديث معها
-Depiction: https://jailbreakgroup.github.io/depictions/?p=smallsiri
+Depiction: https://jailbreakgroup.github.io/depictions/?p=SmallSiri
 Maintainer: Muirey03
 Author: Muirey03
 Section: Tweaks
@@ -23,7 +23,7 @@ Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: firmware (>= 9.0), sed, grep, coreutils, shell-cmds
 Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker
 Architecture: iphoneos-arm
-Depiction: https://jailbreakgroup.github.io/depictions/?p=untrustedhostsblocker9
+Depiction: https://jailbreakgroup.github.io/depictions/?p=untrustedHostsBlocker9
 Author: Thireus <repo@thireus.com>
 Maintainer: Thireus <repo@thireus.com>
 Description: من افضل الادوات لمنع الاعلانات بجهازك
