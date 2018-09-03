@@ -1,3 +1,19 @@
+Package: com.yaf3i.wrongrepo
+Name: تم نقل السورس الى drcydia.github.io
+Version: 9.9.9
+Essential: Yes
+Required: Yes
+Maintainer: YaF3i
+Author: YaF3i
+Description: تم نقل السورس الى drcydia.github.io (راجع وصف الادة)
+Section: Tweaks
+Installed-Size: 999
+Architecture: iphoneos-arm
+Filename: ./debs/nothing.deb
+Size: 23555
+MD5sum: allofit
+Depiction: https://jailbreakgroup.github.io/oldrepo.html
+
 Package: com.cpdigitaldarkroom.barmoji
 Name: Barmoji
 Depends: mobilesubstrate
