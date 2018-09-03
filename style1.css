@@ -1,0 +1,65 @@
+/* #981CEB */
+html, body {
+  margin: 0;
+  padding:0;
+}
+
+body {
+  margin: 10px 0;
+  background: #efeff4!important;
+  font-family: "SF Pro Display", "SF Pro", "Helvetica Neue", "Roboto", "Segoe UI", Helvetica, Arial, Verdana, sans-serif;
+}
+
+a {
+  color: #b342ff;
+}
+
+a:hover {
+  opacity: 0.9;
+}
+
+h1, .content, .buttons {
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+  text-align: center;
+}
+p, .content, .buttons {
+  padding: 20px;
+}
+
+p {
+  margin: 0;
+  text-align: center;
+}
+.card {
+  max-width: 600px;
+  margin: 0 auto;
+  /*border: 2px solid #fff;*/
+}
+
+.content {
+  padding-top: 0;
+}
+
+.buttons {
+  /*border-top: 1px solid #fff;*/
+  padding: 20px 15px;
+  display: flex;
+}
+
+.buttons a {
+  text-align: center;
+  border: 1px solid #ddd;
+  background: #ffffff;
+  font-weight: bold;
+  color: #000;
+  display: inline-block;
+  padding: 10px;
+  text-decoration: none;
+  text-align: center;
+  flex: 1;
+  margin: 0 5px;
+}
