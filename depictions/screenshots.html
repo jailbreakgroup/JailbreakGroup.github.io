@@ -33,7 +33,7 @@
 				,"render" : function(element,source){
 				console.log($(source).size());
 					if ($(source).size()==0) {
-						$(element).append( $("<div class='alert alert-danger'><strong>عذرًا</strong> هذه الأداة لا تحتاج إلى صور ..</div>") ); 
+						$(element).append( $("<div class='alert alert-danger'>The aren't any screenshots for this package</div>") ); 
 						return;
 					}
 					$.each(source, function(index,data) {

@@ -72,11 +72,14 @@
 				,"source" :"package>screenshots>screenshot"
 				,"render":function(element, source){
 					$("#screenshotsLink").remove();
+					//if ($(source).size() == 0) {
+					//	return
+					//}
 					// create screenshots link
 					$("#descriptionList").append(
-						$("<a class='link-item list-group-item' style='text-align:center'>")
+						$("<a class='link-item list-group-item'>")
 							.attr("href","screenshots.html?p="+bundleid)
-							.text("صور للأداة")
+							.text("Screenshots")
 					);
 				}
 			}
