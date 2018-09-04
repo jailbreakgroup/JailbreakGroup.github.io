@@ -19,7 +19,12 @@
 		]]>
 		</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+			<screenshot>
+				<description></description>
+				<image>1.png</image>
+			</screenshot>
+	</screenshots>
 	<changelog>
 		<change>دعم iOS 11</change>
 	</changelog>
