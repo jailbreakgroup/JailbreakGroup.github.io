@@ -72,10 +72,6 @@
 				,"source" :"package>screenshots>screenshot"
 				,"render":function(element, source){
 					$("#screenshotsLink").remove();
-					if ($(source).size() == 0) {
-						$(element).append( $("<div class='alert alert-danger'><strong>عذرًا</strong> هذه الأداة لا تحتاج إلى صور ..</div>") ); 
-						return
-					}
 					// create screenshots link
 					$("#descriptionList").append(
 						$("<a class='link-item list-group-item' style='text-align:center'>")
